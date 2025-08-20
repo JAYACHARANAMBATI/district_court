@@ -1,0 +1,21 @@
+{
+  "name": "drizzle-pg-case-inserter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "drizzle-orm": "^0.44.4",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.4"
+  }
+}

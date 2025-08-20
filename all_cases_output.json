@@ -1,0 +1,2859 @@
+{
+  "metadata": {
+    "total_cases": 7,
+    "successful": 7,
+    "failed": 0,
+    "timestamp": "2025-07-26 12:06:35"
+  },
+  "cases": [
+    {
+      "case_info": {
+        "Case Type": "MVOP - MOTOR ACCIDENT OP",
+        "Filing Number": "18407/2012",
+        "Registration Number": "9/2013",
+        "CNR Number": "APKR030000952013(Note the CNR number for future reference)",
+        "First Hearing Date": "01st April 2013",
+        "Decision Date": "11th December 2013",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Uncontested--SETTLED BEFORE LOK ADALAT",
+        "Court Number and Judge": "31-XIV Additional District and Sessions Judge Vijayawada",
+        "extraction_timestamp": "2025-07-26 11:46:02"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "01-04-2013",
+          "Court": "Trial Court",
+          "Business": "R.1 to R.3 Called absent. R.1 and R.2 are set exparte. Sri Y.U.M.R. Filed vakalat and counter of R.3 For issues call on 12-7-2013",
+          "Purpose": "ISSUES",
+          "Next Hearing Date": "12-07-2013"
+        },
+        {
+          "Hearing Date": "12-07-2013",
+          "Court": "Trial Court",
+          "Business": "Issues framed. For trial 26-7-2013.",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "26-07-2013"
+        },
+        {
+          "Hearing Date": "26-07-2013",
+          "Court": "Trial Court",
+          "Business": "P.N.R.Adj.to 5.8.13 for trial as a L.C.",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "05-08-2013"
+        },
+        {
+          "Hearing Date": "05-08-2013",
+          "Court": "Trial Court",
+          "Business": "PNR Adj. to 26.08.13 for trial as a last chance.",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "26-08-2013"
+        },
+        {
+          "Hearing Date": "26-08-2013",
+          "Court": "Trial Court",
+          "Business": "Not mentioned",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "06-11-2013"
+        },
+        {
+          "Hearing Date": "06-11-2013",
+          "Court": "Trial Court",
+          "Business": "Proof affidavit of the petitioner is filed in lieu of the chief examination of pw1. For hearing,marking of documents and for cross examination ofpw1 adj.to 19.11.13",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "19-11-2013"
+        },
+        {
+          "Hearing Date": "19-11-2013",
+          "Court": "Trial Court",
+          "Business": "PW1 is called absent. There is no rep on behalf of the petitioner. Hence, adj.to 11.12.13",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "11-12-2013"
+        },
+        {
+          "Hearing Date": "11-12-2013",
+          "Court": "Trial Court",
+          "Business": "The matter is settled before Lok Adalat on 27.11.13.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    },
+    {
+      "case_info": {
+        "Case Type": "MVOP - MOTOR ACCIDENT OP",
+        "Filing Number": "15466/2012",
+        "Registration Number": "726/2012",
+        "CNR Number": "APKR030027422012(Note the CNR number for future reference)",
+        "First Hearing Date": "22nd January 2013",
+        "Decision Date": "09th October 2015",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Contested--ALLOWED IN PART",
+        "Court Number and Judge": "6-VIII Additional District and Session Judge (FTC)  Vijayawada",
+        "extraction_timestamp": "2025-07-26 11:47:32"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "22-01-2013",
+          "Court": "Trial Court",
+          "Business": "R.1 to R.3 Called absent. Issue fresh notice to R.1 ,R.2 Called absent .set exparte, Sri T.V.B.R. Filed after memo for filing vakalat fro R.3 Call on 6-3-2013",
+          "Purpose": "NOTICE",
+          "Next Hearing Date": "06-03-2013"
+        },
+        {
+          "Hearing Date": "06-03-2013",
+          "Court": "Trial Court",
+          "Business": "Vakalat for R.3 filed. Batta for R.1 Not paid. T.E.Till 4-4-2013",
+          "Purpose": "NOTICE",
+          "Next Hearing Date": "04-04-2013"
+        },
+        {
+          "Hearing Date": "04-04-2013",
+          "Court": "Trial Court",
+          "Business": "Counter of R.3 not filed. Batta for R.1 Paid with petition and allowed. Issue notice to R.1 and counter of R.3 Call on 15-5-2013",
+          "Purpose": "FILING COUNTER",
+          "Next Hearing Date": "15-05-2013"
+        },
+        {
+          "Hearing Date": "15-05-2013",
+          "Court": "Trial Court",
+          "Business": "Counter of R.3 Not filed. Batta for R.1 Represented. Issue notice to R.1 and Counter of R.3 Call on 30-7-2013.",
+          "Purpose": "FILING COUNTER",
+          "Next Hearing Date": "30-07-2013"
+        },
+        {
+          "Hearing Date": "30-07-2013",
+          "Court": "Trial Court",
+          "Business": "Counter of R3 not filed. Issue F.N.to R1 T.C.and R.P.by 21.8.13. Meanwhile,for counter of R3 permittally.",
+          "Purpose": "FILING COUNTER",
+          "Next Hearing Date": "21-08-2013"
+        },
+        {
+          "Hearing Date": "21-08-2013",
+          "Court": "Trial Court",
+          "Business": "Since the judicial employees are on strike as a protect samaikyandhra. case posted to",
+          "Purpose": "FILING COUNTER",
+          "Next Hearing Date": "11-09-2013"
+        },
+        {
+          "Hearing Date": "11-09-2013",
+          "Court": "Trial Court",
+          "Business": "In vivew of strike of judicial employees.",
+          "Purpose": "FILING COUNTER",
+          "Next Hearing Date": "31-10-2013"
+        },
+        {
+          "Hearing Date": "31-10-2013",
+          "Court": "Trial Court",
+          "Business": "Counter ofR3 is filed.At request of the petitioner counsel issue fresh notice to R1T.C.andR.P.by 29.11.13.",
+          "Purpose": "NOTICE",
+          "Next Hearing Date": "29-11-2013"
+        },
+        {
+          "Hearing Date": "29-11-2013",
+          "Court": "Trial Court",
+          "Business": "Batta is resubmitted with a perition and delay is condoned. Issue FN to R1 through Court and R.P. by 20.12.13.",
+          "Purpose": "NOTICE",
+          "Next Hearing Date": "20-12-2013"
+        },
+        {
+          "Hearing Date": "20-12-2013",
+          "Court": "Trial Court",
+          "Business": "Notice of R1 was returned unserved. Steps petition for R1 is filed and allowed. Issue notice to R1 by way of a publication in Visalandhra Telugu daily, Vijayawada city edition by 24-1-2014.",
+          "Purpose": "PUBLICATION",
+          "Next Hearing Date": "24-01-2014"
+        },
+        {
+          "Hearing Date": "24-01-2014",
+          "Court": "Trial Court",
+          "Business": "Publication forR1 is filed. R1 is called absent and he is set exparte as service is held sufficient. W.S.ofR3 was already filed. Forhearing on issues call on 31.1.14",
+          "Purpose": "PUBLICATION",
+          "Next Hearing Date": "31-01-2014"
+        },
+        {
+          "Hearing Date": "31-01-2014",
+          "Court": "Trial Court",
+          "Business": "Issues framed. For trial Call on 10.3.14.",
+          "Purpose": "PUBLICATION",
+          "Next Hearing Date": "10-03-2014"
+        },
+        {
+          "Hearing Date": "10-03-2014",
+          "Court": "Trial Court",
+          "Business": "As per the orders passed in IA 284 of 2014 the exparte order passed against R2 is set aside. Counter of R2 is filed. For hearing on additional issues ifany t.e.till 7.4.14",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "07-04-2014"
+        },
+        {
+          "Hearing Date": "07-04-2014",
+          "Court": "Trial Court",
+          "Business": "For hearing on addl.issues call on 14.5.14",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "14-05-2014"
+        },
+        {
+          "Hearing Date": "14-05-2014",
+          "Court": "Trial Court",
+          "Business": "After perusing the averments in the written statement of the 3rd respondent thistribunal is of the view that the issues whichwere already framed on 31.1.14 are comprehensive in nature to decide all contraversions betwen the parties to this claim application and there is no necessity to frame additiional issues. Hence, no additional issuesare framed. For trial adj.to 23.6.14",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "23-06-2014"
+        },
+        {
+          "Hearing Date": "23-06-2014",
+          "Court": "Trial Court",
+          "Business": "As P.O.is on C.L.posted to 7.8.14",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "07-08-2014"
+        },
+        {
+          "Hearing Date": "07-08-2014",
+          "Court": "Trial Court",
+          "Business": "Proof affidavit of the 1st petitioner is filed in lieu of the chief examination of pw1 and the same is received as chief examination of pw1. Exs.A1 toA8 are marked. For cross examination of pw1 adj.to 4.9.14.",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "04-09-2014"
+        },
+        {
+          "Hearing Date": "04-09-2014",
+          "Court": "Trial Court",
+          "Business": "Pw1 is called present. She is cross examined on behalf of R3. Cross examinatiion of pw1 on behalf of R2 is treated as nil. For further evidence adj.to 15.9.14.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "15-09-2014"
+        },
+        {
+          "Hearing Date": "15-09-2014",
+          "Court": "Trial Court",
+          "Business": "Pnr 1.10.14",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "01-10-2014"
+        },
+        {
+          "Hearing Date": "01-10-2014",
+          "Court": "Trial Court",
+          "Business": "Pnr 7.11.14",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-11-2014"
+        },
+        {
+          "Hearing Date": "07-11-2014",
+          "Court": "Trial Court",
+          "Business": "plNR 20.11.14",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "20-11-2014"
+        },
+        {
+          "Hearing Date": "20-11-2014",
+          "Court": "Trial Court",
+          "Business": "As P.O.is on C.L.posted to 2.12.2014",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "02-12-2014"
+        },
+        {
+          "Hearing Date": "02-12-2014",
+          "Court": "Trial Court",
+          "Business": "Pnr 9.12.14",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "09-12-2014"
+        },
+        {
+          "Hearing Date": "09-12-2014",
+          "Court": "Trial Court",
+          "Business": "As per the orders of this tribunal in IA 2014 pw1 is recalled for her further chief examination and pw1 is further examined in chief. Exs.A9 to A11 are marked oin behalf of the petitioners. For further cross examination of pw1 adj.to 9.1.15",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "09-01-2015"
+        },
+        {
+          "Hearing Date": "09-01-2015",
+          "Court": "Trial Court",
+          "Business": "Pw1 is called present. She is further cross examined on behalf of R3. Pw2 is examined on behalf of the petitioners 1 to 3. Forfurther evidence of the petitioners 1 to 3 adj.to 29.1.15 \\ IA 1447 of 2014 \\ Witness is called present and gave hisevidence. Hence this petition is closed.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "29-01-2015"
+        },
+        {
+          "Hearing Date": "29-01-2015",
+          "Court": "Trial Court",
+          "Business": "As P.O.is on C.L.posted to 11.2.15",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "11-02-2015"
+        },
+        {
+          "Hearing Date": "11-02-2015",
+          "Court": "Trial Court",
+          "Business": "Petitioners 1 to 3 are calle4d absent. There is no representation on behalf of the petitioners 1 to 3. Hence, petitioners evidence is cloed.For the evidence ofR2 and R3 adj.to 2.3.15 as a last chance.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "02-03-2015"
+        },
+        {
+          "Hearing Date": "02-03-2015",
+          "Court": "Trial Court",
+          "Business": "RNR. Adjto 24.3.15 for the evidence of R2 and R3 as a last chance.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "24-03-2015"
+        },
+        {
+          "Hearing Date": "24-03-2015",
+          "Court": "Trial Court",
+          "Business": "RNR. Adjj.to 2.4.15 as a last chance for the evidence ofR2 andR3.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "02-04-2015"
+        },
+        {
+          "Hearing Date": "02-04-2015",
+          "Court": "Trial Court",
+          "Business": "As P.O.is on O.H.posted to 8.4.15",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "08-04-2015"
+        },
+        {
+          "Hearing Date": "08-04-2015",
+          "Court": "Trial Court",
+          "Business": "RNR.Adj.to 22.4.15 for the evidence of R2 and R3 permitally",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "22-04-2015"
+        },
+        {
+          "Hearing Date": "22-04-2015",
+          "Court": "Trial Court",
+          "Business": "RNR. Adj.to 8.5.15 for the evidence of R2 and R3.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "08-05-2015"
+        },
+        {
+          "Hearing Date": "08-05-2015",
+          "Court": "Trial Court",
+          "Business": "RNR. Adj.to 11.6.15 for the evidence of R2 and R3 as a last chance.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "11-06-2015"
+        },
+        {
+          "Hearing Date": "11-06-2015",
+          "Court": "Trial Court",
+          "Business": "R2,R3 called absent. No representation. Evidence not produced since three months. R2 and R3 evidence treated as nil. For arguments call on 30.6.15",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "30-06-2015"
+        },
+        {
+          "Hearing Date": "30-06-2015",
+          "Court": "Trial Court",
+          "Business": "Petitioner is called absent. NO representation even at 3.30 PM call on 1.7.2015",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "01-07-2015"
+        },
+        {
+          "Hearing Date": "01-07-2015",
+          "Court": "Trial Court",
+          "Business": "Petitioner arguments heard. For R2, R3 arguments. Call on 8-7-2015.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "08-07-2015"
+        },
+        {
+          "Hearing Date": "08-07-2015",
+          "Court": "Trial Court",
+          "Business": "2 IAs filed by R3. Check and call on 5-8-2015.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "05-08-2015"
+        },
+        {
+          "Hearing Date": "05-08-2015",
+          "Court": "Trial Court",
+          "Business": "Received by transfer from XIV ADJ Court, VJA. Call on 17-8-15.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "17-08-2015"
+        },
+        {
+          "Hearing Date": "17-08-2015",
+          "Court": "Trial Court",
+          "Business": "Both parties called absent. No representation. Posted to 19-8-15 with a direction to get ready.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-08-2015"
+        },
+        {
+          "Hearing Date": "19-08-2015",
+          "Court": "Trial Court",
+          "Business": "IA pending call on 25-8-15. \\ I.A. /15 For counter and disposal call on 25-8-15.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "25-08-2015"
+        },
+        {
+          "Hearing Date": "25-08-2015",
+          "Court": "Trial Court",
+          "Business": "IA pending call on 27-8-15. \\ I.A. 679/15 Counter not filed. TE till 27-8-15 on cost of Rs.20/-.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "27-08-2015"
+        },
+        {
+          "Hearing Date": "27-08-2015",
+          "Court": "Trial Court",
+          "Business": "IA pending call on 1-9-15. \\ I.A. 679/15 Respondent reports no counter. Heard for orders 1-9-15",
+          "Purpose": "FOR ORDERS",
+          "Next Hearing Date": "01-09-2015"
+        },
+        {
+          "Hearing Date": "01-09-2015",
+          "Court": "Trial Court",
+          "Business": "On petition reopened R3s evidence and posted to 4-9-15. For R3s evidence. \\ I.A. 679/15 Taking into consideration of undisputed petition averments petition is allowed without costs by reopening 3rd respondent evidence.",
+          "Purpose": "RES/DEF EVIDENCE",
+          "Next Hearing Date": "04-09-2015"
+        },
+        {
+          "Hearing Date": "04-09-2015",
+          "Court": "Trial Court",
+          "Business": "R3 called absent. No representation. Posted to 8-9-15. As a last chance.",
+          "Purpose": "RES/DEF EVIDENCE",
+          "Next Hearing Date": "08-09-2015"
+        },
+        {
+          "Hearing Date": "08-09-2015",
+          "Court": "Trial Court",
+          "Business": "R3 called absent. No representation. Posted to 9-9-15 with a direction to get ready.",
+          "Purpose": "RES/DEF EVIDENCE",
+          "Next Hearing Date": "09-09-2015"
+        },
+        {
+          "Hearing Date": "09-09-2015",
+          "Court": "Trial Court",
+          "Business": "RNR posted to 14-9-15 with a direction to get ready.",
+          "Purpose": "RES/DEF EVIDENCE",
+          "Next Hearing Date": "14-09-2015"
+        },
+        {
+          "Hearing Date": "14-09-2015",
+          "Court": "Trial Court",
+          "Business": "RNR posted to 18-9-15 on cost of Rs.20/-.",
+          "Purpose": "RES/DEF EVIDENCE",
+          "Next Hearing Date": "18-09-2015"
+        },
+        {
+          "Hearing Date": "18-09-2015",
+          "Court": "Trial Court",
+          "Business": "Cost paid. memo filed and requested time. TE till 22-9-15.",
+          "Purpose": "RES/DEF EVIDENCE",
+          "Next Hearing Date": "22-09-2015"
+        },
+        {
+          "Hearing Date": "22-09-2015",
+          "Court": "Trial Court",
+          "Business": "Ex.B1 marked and respondent reports no further evidence. Respondent side evidence closed. For arguments call on 24-9-15.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "24-09-2015"
+        },
+        {
+          "Hearing Date": "24-09-2015",
+          "Court": "Trial Court",
+          "Business": "Today is public holiday reposted to 28-9-15.",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "28-09-2015"
+        },
+        {
+          "Hearing Date": "28-09-2015",
+          "Court": "Trial Court",
+          "Business": "Both parties called absent. No representation. Hence arguments of both the counsels treated as Nil and posted to 30-9-15. For orders and both petitioner are permitted to submit either written or oral arguments on or before 2pm by 30-9-15",
+          "Purpose": "FOR ORDERS",
+          "Next Hearing Date": "30-09-2015"
+        },
+        {
+          "Hearing Date": "30-09-2015",
+          "Court": "Trial Court",
+          "Business": "Suo moto reopened and posted to 1-10-15. For further hearing.",
+          "Purpose": "FOR ORDERS",
+          "Next Hearing Date": "01-10-2015"
+        },
+        {
+          "Hearing Date": "01-10-2015",
+          "Court": "Trial Court",
+          "Business": "PNR 5-10-15.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "05-10-2015"
+        },
+        {
+          "Hearing Date": "05-10-2015",
+          "Court": "Trial Court",
+          "Business": "IA pending call on 7-10-15. \\ I.A. /15 For counter and disposal call on 7-10-15.7-1",
+          "Purpose": "CALL WITH IAS",
+          "Next Hearing Date": "07-10-2015"
+        },
+        {
+          "Hearing Date": "07-10-2015",
+          "Court": "Trial Court",
+          "Business": "IA pending call on 8-10-15. \\ I.A. 890/15 Counter not filed. TE till 8-10-15. On cost of Rs.20/-.",
+          "Purpose": "CALL WITH IAS",
+          "Next Hearing Date": "08-10-2015"
+        },
+        {
+          "Hearing Date": "08-10-2015",
+          "Court": "Trial Court",
+          "Business": "On petition, petitioner side evidence reopened and chief of PW3 filed and examined. Learned counsel of petition filed memo stating 2nd and 3rd petitioner died and 1st petitioner is sole legal heir on death of 2nd and 3rd petitioner. Petitioner side no further evidence. Petitioner side evidence closed. Respondent reports no further evidence. Respondent side evidence closed. Heard for orders 9-10-15.",
+          "Purpose": "FOR ORDERS",
+          "Next Hearing Date": "09-10-2015"
+        },
+        {
+          "Hearing Date": "09-10-2015",
+          "Court": "Trial Court",
+          "Business": "Orders pronounced (VSO). In the result, petition is allowed in part granting compensation of Rs.700000/- with interest at 7.5 percent p.a. from the date of petition till the date of deposit with proportionate cost and interest and both the respondents are jointly and severally liable to deposit the same. Time for deposit is one month. On such deposit 1st petitioner is entitled to withdraw an amount of Rs.50,000/- and balance compensation of Rs.650000/- with proportionate cost and interest shall be invested in an nationalized in a fixed deposit for period of 36 months and on maturity 1st petitioner is permitted to withdraw the entire compensation in lumsum. Advocate fee is fixed at Rs.5000/-.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    },
+    {
+      "case_info": {
+        "Case Type": "OS - ORIGINAL SUIT",
+        "Filing Number": "7210/2003",
+        "Registration Number": "34/2003",
+        "CNR Number": "APKR030000232003(Note the CNR number for future reference)",
+        "First Hearing Date": "21st February 2011",
+        "Decision Date": "08th September 2014",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Contested--DECREED PARTLY",
+        "Court Number and Judge": "29-XII Additional District and Sessions Judge (FTC)  Vijayawada",
+        "extraction_timestamp": "2025-07-26 11:49:43"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "21-02-2011",
+          "Court": "Trial Court",
+          "Business": "Received by transfer from II ADJ court,V Z A AS per orders of district court, Krishna M T M in Dis no 8607 Dt.18-12-2010. Since date is given to 21-2-2011 \\ Sri K S Advocate filed vak on behalf of 1st plaintiff in the place of Sri C.Raghu advocate 2nd plaintiff and contesting defs are called absent.There is no representation on thier behalf.Hence ADJ to 28-2-2011To hear both side counsel",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "28-02-2011"
+        },
+        {
+          "Hearing Date": "28-02-2011",
+          "Court": "Trial Court",
+          "Business": "P N R 10-3-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "10-03-2011"
+        },
+        {
+          "Hearing Date": "10-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of the defendant counsel ADJ to 29-3-2011 as a L C",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "29-03-2011"
+        },
+        {
+          "Hearing Date": "29-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of Defendant counsel 31-3-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "31-03-2011"
+        },
+        {
+          "Hearing Date": "31-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of Defendants Counsel ADJ to 27-4-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "27-04-2011"
+        },
+        {
+          "Hearing Date": "27-04-2011",
+          "Court": "Trial Court",
+          "Business": "B N R 6-6-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "06-06-2011"
+        },
+        {
+          "Hearing Date": "06-06-2011",
+          "Court": "Trial Court",
+          "Business": "Call on 29-6-2011,18-7-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "18-07-2011"
+        },
+        {
+          "Hearing Date": "18-07-2011",
+          "Court": "Trial Court",
+          "Business": "AS p o is on C L posted to 1-8-2011",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "01-08-2011"
+        },
+        {
+          "Hearing Date": "01-08-2011",
+          "Court": "Trial Court",
+          "Business": "call on 8-8-2011 and 14-8-2011",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "14-08-2011"
+        },
+        {
+          "Hearing Date": "14-08-2011",
+          "Court": "Trial Court",
+          "Business": "I A 101/11 is allowed and ADJ to 14-10-2011 for Further examination of DW1",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "14-10-2011"
+        },
+        {
+          "Hearing Date": "14-10-2011",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no representation on behalf of the representation ADJ to 18-10-2011For Hg",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "18-10-2011"
+        },
+        {
+          "Hearing Date": "18-10-2011",
+          "Court": "Trial Court",
+          "Business": "B N R 8-11-2011,11-11-2011,and 8-12-2011",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "08-12-2011"
+        },
+        {
+          "Hearing Date": "08-12-2011",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no D1 ADJ to 6-1-2012 to hear counsel for D1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "06-01-2012"
+        },
+        {
+          "Hearing Date": "06-01-2012",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no D1 ADJ to 24-1-2012 for further chief Ex of Dw1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "24-01-2012"
+        },
+        {
+          "Hearing Date": "24-01-2012",
+          "Court": "Trial Court",
+          "Business": "D N R ADJ to 15-2-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "15-02-2012"
+        },
+        {
+          "Hearing Date": "15-02-2012",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called present At request of the plaintiff counsel ADJ to 27-2-2012 for further Chief examination of Dw1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "27-02-2012"
+        },
+        {
+          "Hearing Date": "27-02-2012",
+          "Court": "Trial Court",
+          "Business": "D N R 2-3-2012,9-3-2012,12-4-2012and 12-6-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "12-06-2012"
+        },
+        {
+          "Hearing Date": "12-06-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. 10-7-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "10-07-2012"
+        },
+        {
+          "Hearing Date": "10-07-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adj.to 24-07-2012 as a last chance.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "24-07-2012"
+        },
+        {
+          "Hearing Date": "24-07-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adjourned to 31-07-2012.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "31-07-2012"
+        },
+        {
+          "Hearing Date": "31-07-2012",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. Adjourned to 07-08-2012 for further chief examination of DW1 permitally.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-08-2012"
+        },
+        {
+          "Hearing Date": "07-08-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adjourned to 22-08-2012.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "22-08-2012"
+        },
+        {
+          "Hearing Date": "22-08-2012",
+          "Court": "Trial Court",
+          "Business": "PETITIONERS AND R3 ARE CALLED ABSENT. THERE IS NO REPRESENTATION EITHER SIDE.RW1 IS CALLED ABSENT.ADJ TO 28-08-2012 AS A LC FOR CROSS EAMINATION OF RW1",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-09-2012"
+        },
+        {
+          "Hearing Date": "07-09-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R adjourned to 20-9-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "20-09-2012"
+        },
+        {
+          "Hearing Date": "20-09-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 28-9-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-09-2012"
+        },
+        {
+          "Hearing Date": "28-09-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 8-10-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "08-10-2012"
+        },
+        {
+          "Hearing Date": "08-10-2012",
+          "Court": "Trial Court",
+          "Business": "Po is on cl posted to 2-11-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "02-11-2012"
+        },
+        {
+          "Hearing Date": "02-11-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 21-11-12 along with I.A377/12 and I.A378/2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "21-11-2012"
+        },
+        {
+          "Hearing Date": "21-11-2012",
+          "Court": "Trial Court",
+          "Business": "In view of the order passed in I.A 377/2012 and I.A378/2012, Call on 3-12-12 to carry out the amendment and to file the amended plaint copy.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "03-12-2012"
+        },
+        {
+          "Hearing Date": "03-12-2012",
+          "Court": "Trial Court",
+          "Business": "Amended plaint copy is filed for addtitional WST of D1,D2 and D4 to D6 if any time extended till 10-12-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "10-12-2012"
+        },
+        {
+          "Hearing Date": "10-12-2012",
+          "Court": "Trial Court",
+          "Business": "Additional written statement of D1,D2 and D4 to D6 is not filed time extended till 28-12-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-12-2012"
+        },
+        {
+          "Hearing Date": "28-12-2012",
+          "Court": "Trial Court",
+          "Business": "As D3 did not introduce any new pleadings framings of additional issues is not necessary. Hence adjourned to 28-1-13 for further chief examination of PW1.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-01-2013"
+        },
+        {
+          "Hearing Date": "28-01-2013",
+          "Court": "Trial Court",
+          "Business": "D.N.R adjourned to 15-2-13",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "15-02-2013"
+        },
+        {
+          "Hearing Date": "15-02-2013",
+          "Court": "Trial Court",
+          "Business": "Pw1 is called present. At request of the Plaintiff counsel adjourned to 4-4-12",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "04-04-2013"
+        },
+        {
+          "Hearing Date": "04-04-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. Adj to 17-04-2013 for further cross fexaminatiion of dDW1 at request of the counselo nffor D1D2and D6.",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "17-04-2013"
+        },
+        {
+          "Hearing Date": "17-04-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called abnsent. Adj to 10-06-2013 for further cross examination of DW1.",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "10-06-2013"
+        },
+        {
+          "Hearing Date": "10-06-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. adj t0o 01-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "01-07-2013"
+        },
+        {
+          "Hearing Date": "01-07-2013",
+          "Court": "Trial Court",
+          "Business": "PNR adjto 03-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-07-2013"
+        },
+        {
+          "Hearing Date": "03-07-2013",
+          "Court": "Trial Court",
+          "Business": "PNR Adjto 31-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "31-07-2013"
+        },
+        {
+          "Hearing Date": "31-07-2013",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent for cross examination of Dw1 adjourned to 5-8-2013 it DW1 failed to attend before court on that day to submit for cross examination evidence of D1 D2 and D6 will be closed",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "05-08-2013"
+        },
+        {
+          "Hearing Date": "05-08-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present for cross of dw1 adf to 14-08-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "14-08-2013"
+        },
+        {
+          "Hearing Date": "14-08-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of dw1 adj to 26-08-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "26-08-2013"
+        },
+        {
+          "Hearing Date": "26-08-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of ndw1 adj to 04-09-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "04-09-2013"
+        },
+        {
+          "Hearing Date": "04-09-2013",
+          "Court": "Trial Court",
+          "Business": "For examinatrion of dw1 adj to 24-09-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "24-09-2013"
+        },
+        {
+          "Hearing Date": "24-09-2013",
+          "Court": "Trial Court",
+          "Business": "For crdoss examination of d1adj to 08-10-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "08-10-2013"
+        },
+        {
+          "Hearing Date": "08-10-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of dw1 adjto 31-10-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "31-10-2013"
+        },
+        {
+          "Hearing Date": "31-10-2013",
+          "Court": "Trial Court",
+          "Business": "For cross examination of dw1 adjot 19-11-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "19-11-2013"
+        },
+        {
+          "Hearing Date": "19-11-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present. FOr cross examination. of dw1 ADJTO 03-12-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-12-2013"
+        },
+        {
+          "Hearing Date": "03-12-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present. For cross examination of DW1 adjourned to 02-01-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "02-01-2014"
+        },
+        {
+          "Hearing Date": "02-01-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of DW1 posted to 11-02-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "11-02-2014"
+        },
+        {
+          "Hearing Date": "11-02-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examinatioof dw1adjo 28-02-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "28-02-2014"
+        },
+        {
+          "Hearing Date": "28-02-2014",
+          "Court": "Trial Court",
+          "Business": "DW1 is further examination in chief ex-b37 is marked For cross examination of dw1 by plaintiff adj to 03-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-03-2014"
+        },
+        {
+          "Hearing Date": "03-03-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of dw1 adj to 05-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "05-03-2014"
+        },
+        {
+          "Hearing Date": "05-03-2014",
+          "Court": "Trial Court",
+          "Business": "IA 887 of 2007 is dismissed. For cross examination of DW1 and evidence of other witnesses of defendants posted to 12-03-2014. Both parties are directed to get ready on that day.",
+          "Purpose": "CROSS EXAMINATION OF PET",
+          "Next Hearing Date": "12-03-2014"
+        },
+        {
+          "Hearing Date": "12-03-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of DW1 and evidence of other witness defendants adjourned to 13-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "13-03-2014"
+        },
+        {
+          "Hearing Date": "13-03-2014",
+          "Court": "Trial Court",
+          "Business": "DW1 is further cross examined. DW7 and 8 are cross examined. Fur further evidence of defendants adjourned to 21-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "21-03-2014"
+        },
+        {
+          "Hearing Date": "21-03-2014",
+          "Court": "Trial Court",
+          "Business": "At request of dependent for fuhrer evidence of ddefendent 1and 2and 6 adjto 25-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "25-03-2014"
+        },
+        {
+          "Hearing Date": "25-03-2014",
+          "Court": "Trial Court",
+          "Business": "DW6 is dexaminaed for further evidence of defendents 12and adj to 02-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "02-04-2014"
+        },
+        {
+          "Hearing Date": "02-04-2014",
+          "Court": "Trial Court",
+          "Business": "For evidence of d4and d5 adj to 07-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "07-04-2014"
+        },
+        {
+          "Hearing Date": "07-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 10-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "10-04-2014"
+        },
+        {
+          "Hearing Date": "10-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument sadjto 15-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "15-04-2014"
+        },
+        {
+          "Hearing Date": "15-04-2014",
+          "Court": "Trial Court",
+          "Business": "At request for arguments posted to 21-04-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "21-04-2014"
+        },
+        {
+          "Hearing Date": "21-04-2014",
+          "Court": "Trial Court",
+          "Business": "Call on 28-04-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "28-04-2014"
+        },
+        {
+          "Hearing Date": "28-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument ajdto 04-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "04-06-2014"
+        },
+        {
+          "Hearing Date": "04-06-2014",
+          "Court": "Trial Court",
+          "Business": "IA 193 of 2014 is dismissed as not maintainable. For arguments posted to 10-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "10-06-2014"
+        },
+        {
+          "Hearing Date": "10-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adj to 13-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "13-06-2014"
+        },
+        {
+          "Hearing Date": "13-06-2014",
+          "Court": "Trial Court",
+          "Business": "Suomotu received the order dated 04-06-2014 passed on IA 193 and restored the said IA. IA 193 of 2014 is pending. For arguments posted to 19-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-06-2014"
+        },
+        {
+          "Hearing Date": "19-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adj to 23-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "23-06-2014"
+        },
+        {
+          "Hearing Date": "23-06-2014",
+          "Court": "Trial Court",
+          "Business": "For arguments posted to 24-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "24-06-2014"
+        },
+        {
+          "Hearing Date": "24-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 25-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "25-06-2014"
+        },
+        {
+          "Hearing Date": "25-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 30-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "30-06-2014"
+        },
+        {
+          "Hearing Date": "30-06-2014",
+          "Court": "Trial Court",
+          "Business": "Heard judgment reserved,",
+          "Purpose": "JUDGEMENT RESERVED",
+          "Next Hearing Date": "21-07-2014"
+        },
+        {
+          "Hearing Date": "21-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. pending call on 22-07-2014",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "22-07-2014"
+        },
+        {
+          "Hearing Date": "22-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. 193 OF 2014 \\ Heard the counsel for petitioner. To hear the respondents posted to 25-07-2014",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "25-07-2014"
+        },
+        {
+          "Hearing Date": "25-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. 193 of 2014 \\ Heard the counsel for R3 to R5. For orders posted to 26-07-2014 \\ I.A. pending call on 26-07-2014",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "26-07-2014"
+        },
+        {
+          "Hearing Date": "26-07-2014",
+          "Court": "Trial Court",
+          "Business": "Orders pronounced (VSO). In the result, petition is allowed. 5th defendant is transposed as 3rd plaintiff. Plaintiffs 1 and 2 are directd to amend the plaint by showing the 5th defendant as 3rd plaintiff. If plainitffs 1 and 2 are not interested, the 5the defendant now transposed as 3rd plainitff is directed to make the amendments in the plaint and file the neat copy to proceed further. Petitioner is directed to argue the matter immediately without taking further time after such amendment. \\ Plaintiffs 1 and 2 filed memos stating that they have entered into compromise with defendants 1 and 2. 5th defendant filed the petition to transpose her as 3rd plaintiff same is allowed. For carrying out amendments and filing neat copy of plaint adjourned to 01-08-2014",
+          "Purpose": "AMENDMENTS",
+          "Next Hearing Date": "01-08-2014"
+        },
+        {
+          "Hearing Date": "01-08-2014",
+          "Court": "Trial Court",
+          "Business": "No representation from plaintiffs As per the memos filed by their, they ahve entered into compromised with D1 and D2. Therefore, they are not having interest. Therefore, D5 is directed carryout amendment and file neat copy of plaintiff all on 05-08-2014",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "05-08-2014"
+        },
+        {
+          "Hearing Date": "05-08-2014",
+          "Court": "Trial Court",
+          "Business": "For carrying out amendment in plaintiff by D5 to the extent of transposition area for filing neat copy of plaint adjourned to 06-08-2014",
+          "Purpose": "AMENDMENTS",
+          "Next Hearing Date": "06-08-2014"
+        },
+        {
+          "Hearing Date": "06-08-2014",
+          "Court": "Trial Court",
+          "Business": "Amandment carried out in plaint by 5th defendant who transposed as 3rd plaintiff. Neat copy of plaint filed. For arguments adjourned to 12-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "12-08-2014"
+        },
+        {
+          "Hearing Date": "12-08-2014",
+          "Court": "Trial Court",
+          "Business": "Heard the counsel for 3rd plaintiff to hear the other plaidntiffs and defendants 136 adj to 19-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-08-2014"
+        },
+        {
+          "Hearing Date": "19-08-2014",
+          "Court": "Trial Court",
+          "Business": "TO hear te other plaintiffs and defendants 1,3and 6 adj to 21-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "21-08-2014"
+        },
+        {
+          "Hearing Date": "21-08-2014",
+          "Court": "Trial Court",
+          "Business": "Counsel for defendants 1,2 and 6 requested time. Further time not granted. Judgment reserved.",
+          "Purpose": "JUDGMENT",
+          "Next Hearing Date": "08-09-2014"
+        },
+        {
+          "Hearing Date": "08-09-2014",
+          "Court": "Trial Court",
+          "Business": "In the result, a preliminary decree is passed by decreeing the suit in part by granting the following reliefs \\ \\ 1. Plaintiffs 1 to 3 and 4th defendant are not entitled for share in plaint A schedule property \\ \\ 2. Plaintiffs and defendants 1 to 4 are entitled for 1/7th share each in plaint B and C schedule properties \\ \\ 3. in view of the settlement between plaintiffs 1 and 2 and defendants 1 and 2, plaintiffs 1 and 2 are not entitled to enforce the present decree for their respective shares in plaint B and C schedule properties \\ \\ 4. 3rd plaintiff and defendants 1 to 4 are entitled to file separate application for actual division of plaint A and B schedule properties on ground and for separate possession according to their wish as per law and \\ \\ 5. in view of relationship between parties and facts of the case, each party is directed to bear their own costs.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    },
+    {
+      "case_info": {
+        "Case Type": "OS - ORIGINAL SUIT",
+        "Filing Number": "7210/2003",
+        "Registration Number": "34/2003",
+        "CNR Number": "APKR030000232003(Note the CNR number for future reference)",
+        "First Hearing Date": "21st February 2011",
+        "Decision Date": "08th September 2014",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Contested--DECREED PARTLY",
+        "Court Number and Judge": "29-XII Additional District and Sessions Judge (FTC)  Vijayawada",
+        "extraction_timestamp": "2025-07-26 11:53:33"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "21-02-2011",
+          "Court": "Trial Court",
+          "Business": "Received by transfer from II ADJ court,V Z A AS per orders of district court, Krishna M T M in Dis no 8607 Dt.18-12-2010. Since date is given to 21-2-2011 \\ Sri K S Advocate filed vak on behalf of 1st plaintiff in the place of Sri C.Raghu advocate 2nd plaintiff and contesting defs are called absent.There is no representation on thier behalf.Hence ADJ to 28-2-2011To hear both side counsel",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "28-02-2011"
+        },
+        {
+          "Hearing Date": "28-02-2011",
+          "Court": "Trial Court",
+          "Business": "P N R 10-3-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "10-03-2011"
+        },
+        {
+          "Hearing Date": "10-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of the defendant counsel ADJ to 29-3-2011 as a L C",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "29-03-2011"
+        },
+        {
+          "Hearing Date": "29-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of Defendant counsel 31-3-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "31-03-2011"
+        },
+        {
+          "Hearing Date": "31-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of Defendants Counsel ADJ to 27-4-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "27-04-2011"
+        },
+        {
+          "Hearing Date": "27-04-2011",
+          "Court": "Trial Court",
+          "Business": "B N R 6-6-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "06-06-2011"
+        },
+        {
+          "Hearing Date": "06-06-2011",
+          "Court": "Trial Court",
+          "Business": "Call on 29-6-2011,18-7-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "18-07-2011"
+        },
+        {
+          "Hearing Date": "18-07-2011",
+          "Court": "Trial Court",
+          "Business": "AS p o is on C L posted to 1-8-2011",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "01-08-2011"
+        },
+        {
+          "Hearing Date": "01-08-2011",
+          "Court": "Trial Court",
+          "Business": "call on 8-8-2011 and 14-8-2011",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "14-08-2011"
+        },
+        {
+          "Hearing Date": "14-08-2011",
+          "Court": "Trial Court",
+          "Business": "I A 101/11 is allowed and ADJ to 14-10-2011 for Further examination of DW1",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "14-10-2011"
+        },
+        {
+          "Hearing Date": "18-10-2011",
+          "Court": "Trial Court",
+          "Business": "B N R 8-11-2011,11-11-2011,and 8-12-2011",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "08-12-2011"
+        },
+        {
+          "Hearing Date": "08-12-2011",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no D1 ADJ to 6-1-2012 to hear counsel for D1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "06-01-2012"
+        },
+        {
+          "Hearing Date": "06-01-2012",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no D1 ADJ to 24-1-2012 for further chief Ex of Dw1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "24-01-2012"
+        },
+        {
+          "Hearing Date": "15-02-2012",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called present At request of the plaintiff counsel ADJ to 27-2-2012 for further Chief examination of Dw1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "27-02-2012"
+        },
+        {
+          "Hearing Date": "27-02-2012",
+          "Court": "Trial Court",
+          "Business": "D N R 2-3-2012,9-3-2012,12-4-2012and 12-6-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "12-06-2012"
+        },
+        {
+          "Hearing Date": "12-06-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. 10-7-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "10-07-2012"
+        },
+        {
+          "Hearing Date": "10-07-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adj.to 24-07-2012 as a last chance.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "24-07-2012"
+        },
+        {
+          "Hearing Date": "24-07-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adjourned to 31-07-2012.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "31-07-2012"
+        },
+        {
+          "Hearing Date": "31-07-2012",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. Adjourned to 07-08-2012 for further chief examination of DW1 permitally.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-08-2012"
+        },
+        {
+          "Hearing Date": "07-08-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adjourned to 22-08-2012.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "22-08-2012"
+        },
+        {
+          "Hearing Date": "22-08-2012",
+          "Court": "Trial Court",
+          "Business": "PETITIONERS AND R3 ARE CALLED ABSENT. THERE IS NO REPRESENTATION EITHER SIDE.RW1 IS CALLED ABSENT.ADJ TO 28-08-2012 AS A LC FOR CROSS EAMINATION OF RW1",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-09-2012"
+        },
+        {
+          "Hearing Date": "07-09-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R adjourned to 20-9-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "20-09-2012"
+        },
+        {
+          "Hearing Date": "20-09-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 28-9-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-09-2012"
+        },
+        {
+          "Hearing Date": "28-09-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 8-10-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "08-10-2012"
+        },
+        {
+          "Hearing Date": "08-10-2012",
+          "Court": "Trial Court",
+          "Business": "Po is on cl posted to 2-11-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "02-11-2012"
+        },
+        {
+          "Hearing Date": "02-11-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 21-11-12 along with I.A377/12 and I.A378/2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "21-11-2012"
+        },
+        {
+          "Hearing Date": "21-11-2012",
+          "Court": "Trial Court",
+          "Business": "In view of the order passed in I.A 377/2012 and I.A378/2012, Call on 3-12-12 to carry out the amendment and to file the amended plaint copy.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "03-12-2012"
+        },
+        {
+          "Hearing Date": "03-12-2012",
+          "Court": "Trial Court",
+          "Business": "Amended plaint copy is filed for addtitional WST of D1,D2 and D4 to D6 if any time extended till 10-12-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "10-12-2012"
+        },
+        {
+          "Hearing Date": "10-12-2012",
+          "Court": "Trial Court",
+          "Business": "Additional written statement of D1,D2 and D4 to D6 is not filed time extended till 28-12-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-12-2012"
+        },
+        {
+          "Hearing Date": "28-12-2012",
+          "Court": "Trial Court",
+          "Business": "As D3 did not introduce any new pleadings framings of additional issues is not necessary. Hence adjourned to 28-1-13 for further chief examination of PW1.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-01-2013"
+        },
+        {
+          "Hearing Date": "28-01-2013",
+          "Court": "Trial Court",
+          "Business": "D.N.R adjourned to 15-2-13",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "15-02-2013"
+        },
+        {
+          "Hearing Date": "15-02-2013",
+          "Court": "Trial Court",
+          "Business": "Pw1 is called present. At request of the Plaintiff counsel adjourned to 4-4-12",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "04-04-2013"
+        },
+        {
+          "Hearing Date": "04-04-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. Adj to 17-04-2013 for further cross fexaminatiion of dDW1 at request of the counselo nffor D1D2and D6.",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "17-04-2013"
+        },
+        {
+          "Hearing Date": "17-04-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called abnsent. Adj to 10-06-2013 for further cross examination of DW1.",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "10-06-2013"
+        },
+        {
+          "Hearing Date": "10-06-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. adj t0o 01-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "01-07-2013"
+        },
+        {
+          "Hearing Date": "01-07-2013",
+          "Court": "Trial Court",
+          "Business": "PNR adjto 03-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-07-2013"
+        },
+        {
+          "Hearing Date": "03-07-2013",
+          "Court": "Trial Court",
+          "Business": "PNR Adjto 31-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "31-07-2013"
+        },
+        {
+          "Hearing Date": "31-07-2013",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent for cross examination of Dw1 adjourned to 5-8-2013 it DW1 failed to attend before court on that day to submit for cross examination evidence of D1 D2 and D6 will be closed",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "05-08-2013"
+        },
+        {
+          "Hearing Date": "05-08-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present for cross of dw1 adf to 14-08-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "14-08-2013"
+        },
+        {
+          "Hearing Date": "14-08-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of dw1 adj to 26-08-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "26-08-2013"
+        },
+        {
+          "Hearing Date": "26-08-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of ndw1 adj to 04-09-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "04-09-2013"
+        },
+        {
+          "Hearing Date": "04-09-2013",
+          "Court": "Trial Court",
+          "Business": "For examinatrion of dw1 adj to 24-09-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "24-09-2013"
+        },
+        {
+          "Hearing Date": "24-09-2013",
+          "Court": "Trial Court",
+          "Business": "For crdoss examination of d1adj to 08-10-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "08-10-2013"
+        },
+        {
+          "Hearing Date": "08-10-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of dw1 adjto 31-10-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "31-10-2013"
+        },
+        {
+          "Hearing Date": "31-10-2013",
+          "Court": "Trial Court",
+          "Business": "For cross examination of dw1 adjot 19-11-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "19-11-2013"
+        },
+        {
+          "Hearing Date": "19-11-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present. FOr cross examination. of dw1 ADJTO 03-12-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-12-2013"
+        },
+        {
+          "Hearing Date": "03-12-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present. For cross examination of DW1 adjourned to 02-01-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "02-01-2014"
+        },
+        {
+          "Hearing Date": "02-01-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of DW1 posted to 11-02-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "11-02-2014"
+        },
+        {
+          "Hearing Date": "11-02-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examinatioof dw1adjo 28-02-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "28-02-2014"
+        },
+        {
+          "Hearing Date": "28-02-2014",
+          "Court": "Trial Court",
+          "Business": "DW1 is further examination in chief ex-b37 is marked For cross examination of dw1 by plaintiff adj to 03-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-03-2014"
+        },
+        {
+          "Hearing Date": "03-03-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of dw1 adj to 05-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "05-03-2014"
+        },
+        {
+          "Hearing Date": "05-03-2014",
+          "Court": "Trial Court",
+          "Business": "IA 887 of 2007 is dismissed. For cross examination of DW1 and evidence of other witnesses of defendants posted to 12-03-2014. Both parties are directed to get ready on that day.",
+          "Purpose": "CROSS EXAMINATION OF PET",
+          "Next Hearing Date": "12-03-2014"
+        },
+        {
+          "Hearing Date": "12-03-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of DW1 and evidence of other witness defendants adjourned to 13-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "13-03-2014"
+        },
+        {
+          "Hearing Date": "13-03-2014",
+          "Court": "Trial Court",
+          "Business": "DW1 is further cross examined. DW7 and 8 are cross examined. Fur further evidence of defendants adjourned to 21-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "21-03-2014"
+        },
+        {
+          "Hearing Date": "21-03-2014",
+          "Court": "Trial Court",
+          "Business": "At request of dependent for fuhrer evidence of ddefendent 1and 2and 6 adjto 25-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "25-03-2014"
+        },
+        {
+          "Hearing Date": "25-03-2014",
+          "Court": "Trial Court",
+          "Business": "DW6 is dexaminaed for further evidence of defendents 12and adj to 02-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "02-04-2014"
+        },
+        {
+          "Hearing Date": "07-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 10-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "10-04-2014"
+        },
+        {
+          "Hearing Date": "21-04-2014",
+          "Court": "Trial Court",
+          "Business": "Call on 28-04-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "28-04-2014"
+        },
+        {
+          "Hearing Date": "28-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument ajdto 04-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "04-06-2014"
+        },
+        {
+          "Hearing Date": "04-06-2014",
+          "Court": "Trial Court",
+          "Business": "IA 193 of 2014 is dismissed as not maintainable. For arguments posted to 10-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "10-06-2014"
+        },
+        {
+          "Hearing Date": "10-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adj to 13-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "13-06-2014"
+        },
+        {
+          "Hearing Date": "13-06-2014",
+          "Court": "Trial Court",
+          "Business": "Suomotu received the order dated 04-06-2014 passed on IA 193 and restored the said IA. IA 193 of 2014 is pending. For arguments posted to 19-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-06-2014"
+        },
+        {
+          "Hearing Date": "19-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adj to 23-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "23-06-2014"
+        },
+        {
+          "Hearing Date": "23-06-2014",
+          "Court": "Trial Court",
+          "Business": "For arguments posted to 24-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "24-06-2014"
+        },
+        {
+          "Hearing Date": "24-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 25-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "25-06-2014"
+        },
+        {
+          "Hearing Date": "25-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 30-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "30-06-2014"
+        },
+        {
+          "Hearing Date": "30-06-2014",
+          "Court": "Trial Court",
+          "Business": "Heard judgment reserved,",
+          "Purpose": "JUDGEMENT RESERVED",
+          "Next Hearing Date": "21-07-2014"
+        },
+        {
+          "Hearing Date": "21-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. pending call on 22-07-2014",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "22-07-2014"
+        },
+        {
+          "Hearing Date": "22-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. 193 OF 2014 \\ Heard the counsel for petitioner. To hear the respondents posted to 25-07-2014",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "25-07-2014"
+        },
+        {
+          "Hearing Date": "25-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. 193 of 2014 \\ Heard the counsel for R3 to R5. For orders posted to 26-07-2014 \\ I.A. pending call on 26-07-2014",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "26-07-2014"
+        },
+        {
+          "Hearing Date": "26-07-2014",
+          "Court": "Trial Court",
+          "Business": "Orders pronounced (VSO). In the result, petition is allowed. 5th defendant is transposed as 3rd plaintiff. Plaintiffs 1 and 2 are directd to amend the plaint by showing the 5th defendant as 3rd plaintiff. If plainitffs 1 and 2 are not interested, the 5the defendant now transposed as 3rd plainitff is directed to make the amendments in the plaint and file the neat copy to proceed further. Petitioner is directed to argue the matter immediately without taking further time after such amendment. \\ Plaintiffs 1 and 2 filed memos stating that they have entered into compromise with defendants 1 and 2. 5th defendant filed the petition to transpose her as 3rd plaintiff same is allowed. For carrying out amendments and filing neat copy of plaint adjourned to 01-08-2014",
+          "Purpose": "AMENDMENTS",
+          "Next Hearing Date": "01-08-2014"
+        },
+        {
+          "Hearing Date": "01-08-2014",
+          "Court": "Trial Court",
+          "Business": "No representation from plaintiffs As per the memos filed by their, they ahve entered into compromised with D1 and D2. Therefore, they are not having interest. Therefore, D5 is directed carryout amendment and file neat copy of plaintiff all on 05-08-2014",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "05-08-2014"
+        },
+        {
+          "Hearing Date": "05-08-2014",
+          "Court": "Trial Court",
+          "Business": "For carrying out amendment in plaintiff by D5 to the extent of transposition area for filing neat copy of plaint adjourned to 06-08-2014",
+          "Purpose": "AMENDMENTS",
+          "Next Hearing Date": "06-08-2014"
+        },
+        {
+          "Hearing Date": "06-08-2014",
+          "Court": "Trial Court",
+          "Business": "Amandment carried out in plaint by 5th defendant who transposed as 3rd plaintiff. Neat copy of plaint filed. For arguments adjourned to 12-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "12-08-2014"
+        },
+        {
+          "Hearing Date": "12-08-2014",
+          "Court": "Trial Court",
+          "Business": "Heard the counsel for 3rd plaintiff to hear the other plaidntiffs and defendants 136 adj to 19-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-08-2014"
+        },
+        {
+          "Hearing Date": "19-08-2014",
+          "Court": "Trial Court",
+          "Business": "TO hear te other plaintiffs and defendants 1,3and 6 adj to 21-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "21-08-2014"
+        },
+        {
+          "Hearing Date": "21-08-2014",
+          "Court": "Trial Court",
+          "Business": "Counsel for defendants 1,2 and 6 requested time. Further time not granted. Judgment reserved.",
+          "Purpose": "JUDGMENT",
+          "Next Hearing Date": "08-09-2014"
+        },
+        {
+          "Hearing Date": "08-09-2014",
+          "Court": "Trial Court",
+          "Business": "In the result, a preliminary decree is passed by decreeing the suit in part by granting the following reliefs \\ \\ 1. Plaintiffs 1 to 3 and 4th defendant are not entitled for share in plaint A schedule property \\ \\ 2. Plaintiffs and defendants 1 to 4 are entitled for 1/7th share each in plaint B and C schedule properties \\ \\ 3. in view of the settlement between plaintiffs 1 and 2 and defendants 1 and 2, plaintiffs 1 and 2 are not entitled to enforce the present decree for their respective shares in plaint B and C schedule properties \\ \\ 4. 3rd plaintiff and defendants 1 to 4 are entitled to file separate application for actual division of plaint A and B schedule properties on ground and for separate possession according to their wish as per law and \\ \\ 5. in view of relationship between parties and facts of the case, each party is directed to bear their own costs.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    },
+    {
+      "case_info": {
+        "Case Type": "OS - ORIGINAL SUIT",
+        "Filing Number": "7210/2003",
+        "Registration Number": "34/2003",
+        "CNR Number": "APKR030000232003(Note the CNR number for future reference)",
+        "First Hearing Date": "21st February 2011",
+        "Decision Date": "08th September 2014",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Contested--DECREED PARTLY",
+        "Court Number and Judge": "29-XII Additional District and Sessions Judge (FTC)  Vijayawada",
+        "extraction_timestamp": "2025-07-26 12:01:14"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "21-02-2011",
+          "Court": "Trial Court",
+          "Business": "Received by transfer from II ADJ court,V Z A AS per orders of district court, Krishna M T M in Dis no 8607 Dt.18-12-2010. Since date is given to 21-2-2011 \\ Sri K S Advocate filed vak on behalf of 1st plaintiff in the place of Sri C.Raghu advocate 2nd plaintiff and contesting defs are called absent.There is no representation on thier behalf.Hence ADJ to 28-2-2011To hear both side counsel",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "28-02-2011"
+        },
+        {
+          "Hearing Date": "28-02-2011",
+          "Court": "Trial Court",
+          "Business": "P N R 10-3-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "10-03-2011"
+        },
+        {
+          "Hearing Date": "10-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of the defendant counsel ADJ to 29-3-2011 as a L C",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "29-03-2011"
+        },
+        {
+          "Hearing Date": "29-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of Defendant counsel 31-3-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "31-03-2011"
+        },
+        {
+          "Hearing Date": "31-03-2011",
+          "Court": "Trial Court",
+          "Business": "At request of Defendants Counsel ADJ to 27-4-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "27-04-2011"
+        },
+        {
+          "Hearing Date": "27-04-2011",
+          "Court": "Trial Court",
+          "Business": "B N R 6-6-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "06-06-2011"
+        },
+        {
+          "Hearing Date": "06-06-2011",
+          "Court": "Trial Court",
+          "Business": "Call on 29-6-2011,18-7-2011",
+          "Purpose": "FOR APPEARANCE",
+          "Next Hearing Date": "18-07-2011"
+        },
+        {
+          "Hearing Date": "18-07-2011",
+          "Court": "Trial Court",
+          "Business": "AS p o is on C L posted to 1-8-2011",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "01-08-2011"
+        },
+        {
+          "Hearing Date": "01-08-2011",
+          "Court": "Trial Court",
+          "Business": "call on 8-8-2011 and 14-8-2011",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "14-08-2011"
+        },
+        {
+          "Hearing Date": "14-08-2011",
+          "Court": "Trial Court",
+          "Business": "I A 101/11 is allowed and ADJ to 14-10-2011 for Further examination of DW1",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "14-10-2011"
+        },
+        {
+          "Hearing Date": "14-10-2011",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no representation on behalf of the representation ADJ to 18-10-2011For Hg",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "18-10-2011"
+        },
+        {
+          "Hearing Date": "18-10-2011",
+          "Court": "Trial Court",
+          "Business": "B N R 8-11-2011,11-11-2011,and 8-12-2011",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "08-12-2011"
+        },
+        {
+          "Hearing Date": "08-12-2011",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no D1 ADJ to 6-1-2012 to hear counsel for D1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "06-01-2012"
+        },
+        {
+          "Hearing Date": "06-01-2012",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent There is no D1 ADJ to 24-1-2012 for further chief Ex of Dw1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "24-01-2012"
+        },
+        {
+          "Hearing Date": "24-01-2012",
+          "Court": "Trial Court",
+          "Business": "D N R ADJ to 15-2-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "15-02-2012"
+        },
+        {
+          "Hearing Date": "15-02-2012",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called present At request of the plaintiff counsel ADJ to 27-2-2012 for further Chief examination of Dw1",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "27-02-2012"
+        },
+        {
+          "Hearing Date": "27-02-2012",
+          "Court": "Trial Court",
+          "Business": "D N R 2-3-2012,9-3-2012,12-4-2012and 12-6-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "12-06-2012"
+        },
+        {
+          "Hearing Date": "12-06-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. 10-7-2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "10-07-2012"
+        },
+        {
+          "Hearing Date": "10-07-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adj.to 24-07-2012 as a last chance.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "24-07-2012"
+        },
+        {
+          "Hearing Date": "24-07-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adjourned to 31-07-2012.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "31-07-2012"
+        },
+        {
+          "Hearing Date": "31-07-2012",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. Adjourned to 07-08-2012 for further chief examination of DW1 permitally.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-08-2012"
+        },
+        {
+          "Hearing Date": "07-08-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R. Adjourned to 22-08-2012.",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "22-08-2012"
+        },
+        {
+          "Hearing Date": "22-08-2012",
+          "Court": "Trial Court",
+          "Business": "PETITIONERS AND R3 ARE CALLED ABSENT. THERE IS NO REPRESENTATION EITHER SIDE.RW1 IS CALLED ABSENT.ADJ TO 28-08-2012 AS A LC FOR CROSS EAMINATION OF RW1",
+          "Purpose": "FURTHER EVIDENCE",
+          "Next Hearing Date": "07-09-2012"
+        },
+        {
+          "Hearing Date": "07-09-2012",
+          "Court": "Trial Court",
+          "Business": "D.N.R adjourned to 20-9-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "20-09-2012"
+        },
+        {
+          "Hearing Date": "20-09-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 28-9-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-09-2012"
+        },
+        {
+          "Hearing Date": "28-09-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 8-10-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "08-10-2012"
+        },
+        {
+          "Hearing Date": "08-10-2012",
+          "Court": "Trial Court",
+          "Business": "Po is on cl posted to 2-11-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "02-11-2012"
+        },
+        {
+          "Hearing Date": "02-11-2012",
+          "Court": "Trial Court",
+          "Business": "Call on 21-11-12 along with I.A377/12 and I.A378/2012",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "21-11-2012"
+        },
+        {
+          "Hearing Date": "21-11-2012",
+          "Court": "Trial Court",
+          "Business": "In view of the order passed in I.A 377/2012 and I.A378/2012, Call on 3-12-12 to carry out the amendment and to file the amended plaint copy.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "03-12-2012"
+        },
+        {
+          "Hearing Date": "03-12-2012",
+          "Court": "Trial Court",
+          "Business": "Amended plaint copy is filed for addtitional WST of D1,D2 and D4 to D6 if any time extended till 10-12-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "10-12-2012"
+        },
+        {
+          "Hearing Date": "10-12-2012",
+          "Court": "Trial Court",
+          "Business": "Additional written statement of D1,D2 and D4 to D6 is not filed time extended till 28-12-12",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-12-2012"
+        },
+        {
+          "Hearing Date": "28-12-2012",
+          "Court": "Trial Court",
+          "Business": "As D3 did not introduce any new pleadings framings of additional issues is not necessary. Hence adjourned to 28-1-13 for further chief examination of PW1.",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "28-01-2013"
+        },
+        {
+          "Hearing Date": "28-01-2013",
+          "Court": "Trial Court",
+          "Business": "D.N.R adjourned to 15-2-13",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "15-02-2013"
+        },
+        {
+          "Hearing Date": "15-02-2013",
+          "Court": "Trial Court",
+          "Business": "Pw1 is called present. At request of the Plaintiff counsel adjourned to 4-4-12",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "04-04-2013"
+        },
+        {
+          "Hearing Date": "04-04-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. Adj to 17-04-2013 for further cross fexaminatiion of dDW1 at request of the counselo nffor D1D2and D6.",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "17-04-2013"
+        },
+        {
+          "Hearing Date": "17-04-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called abnsent. Adj to 10-06-2013 for further cross examination of DW1.",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "10-06-2013"
+        },
+        {
+          "Hearing Date": "10-06-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is called absent. adj t0o 01-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "01-07-2013"
+        },
+        {
+          "Hearing Date": "01-07-2013",
+          "Court": "Trial Court",
+          "Business": "PNR adjto 03-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-07-2013"
+        },
+        {
+          "Hearing Date": "03-07-2013",
+          "Court": "Trial Court",
+          "Business": "PNR Adjto 31-07-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "31-07-2013"
+        },
+        {
+          "Hearing Date": "31-07-2013",
+          "Court": "Trial Court",
+          "Business": "Dw1 is called absent for cross examination of Dw1 adjourned to 5-8-2013 it DW1 failed to attend before court on that day to submit for cross examination evidence of D1 D2 and D6 will be closed",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "05-08-2013"
+        },
+        {
+          "Hearing Date": "05-08-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present for cross of dw1 adf to 14-08-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "14-08-2013"
+        },
+        {
+          "Hearing Date": "14-08-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of dw1 adj to 26-08-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "26-08-2013"
+        },
+        {
+          "Hearing Date": "26-08-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of ndw1 adj to 04-09-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "04-09-2013"
+        },
+        {
+          "Hearing Date": "04-09-2013",
+          "Court": "Trial Court",
+          "Business": "For examinatrion of dw1 adj to 24-09-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "24-09-2013"
+        },
+        {
+          "Hearing Date": "24-09-2013",
+          "Court": "Trial Court",
+          "Business": "For crdoss examination of d1adj to 08-10-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "08-10-2013"
+        },
+        {
+          "Hearing Date": "08-10-2013",
+          "Court": "Trial Court",
+          "Business": "For cross of dw1 adjto 31-10-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "31-10-2013"
+        },
+        {
+          "Hearing Date": "31-10-2013",
+          "Court": "Trial Court",
+          "Business": "For cross examination of dw1 adjot 19-11-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "19-11-2013"
+        },
+        {
+          "Hearing Date": "19-11-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present. FOr cross examination. of dw1 ADJTO 03-12-2013",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-12-2013"
+        },
+        {
+          "Hearing Date": "03-12-2013",
+          "Court": "Trial Court",
+          "Business": "DW1 is present. For cross examination of DW1 adjourned to 02-01-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "02-01-2014"
+        },
+        {
+          "Hearing Date": "02-01-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of DW1 posted to 11-02-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "11-02-2014"
+        },
+        {
+          "Hearing Date": "11-02-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examinatioof dw1adjo 28-02-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "28-02-2014"
+        },
+        {
+          "Hearing Date": "28-02-2014",
+          "Court": "Trial Court",
+          "Business": "DW1 is further examination in chief ex-b37 is marked For cross examination of dw1 by plaintiff adj to 03-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "03-03-2014"
+        },
+        {
+          "Hearing Date": "03-03-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of dw1 adj to 05-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "05-03-2014"
+        },
+        {
+          "Hearing Date": "05-03-2014",
+          "Court": "Trial Court",
+          "Business": "IA 887 of 2007 is dismissed. For cross examination of DW1 and evidence of other witnesses of defendants posted to 12-03-2014. Both parties are directed to get ready on that day.",
+          "Purpose": "CROSS EXAMINATION OF PET",
+          "Next Hearing Date": "12-03-2014"
+        },
+        {
+          "Hearing Date": "12-03-2014",
+          "Court": "Trial Court",
+          "Business": "For cross examination of DW1 and evidence of other witness defendants adjourned to 13-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "13-03-2014"
+        },
+        {
+          "Hearing Date": "13-03-2014",
+          "Court": "Trial Court",
+          "Business": "DW1 is further cross examined. DW7 and 8 are cross examined. Fur further evidence of defendants adjourned to 21-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "21-03-2014"
+        },
+        {
+          "Hearing Date": "21-03-2014",
+          "Court": "Trial Court",
+          "Business": "At request of dependent for fuhrer evidence of ddefendent 1and 2and 6 adjto 25-03-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "25-03-2014"
+        },
+        {
+          "Hearing Date": "25-03-2014",
+          "Court": "Trial Court",
+          "Business": "DW6 is dexaminaed for further evidence of defendents 12and adj to 02-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "02-04-2014"
+        },
+        {
+          "Hearing Date": "02-04-2014",
+          "Court": "Trial Court",
+          "Business": "For evidence of d4and d5 adj to 07-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "07-04-2014"
+        },
+        {
+          "Hearing Date": "07-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 10-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "10-04-2014"
+        },
+        {
+          "Hearing Date": "10-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument sadjto 15-04-2014",
+          "Purpose": "DEFENCE EVIDENCE",
+          "Next Hearing Date": "15-04-2014"
+        },
+        {
+          "Hearing Date": "15-04-2014",
+          "Court": "Trial Court",
+          "Business": "At request for arguments posted to 21-04-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "21-04-2014"
+        },
+        {
+          "Hearing Date": "21-04-2014",
+          "Court": "Trial Court",
+          "Business": "Call on 28-04-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "28-04-2014"
+        },
+        {
+          "Hearing Date": "28-04-2014",
+          "Court": "Trial Court",
+          "Business": "For argument ajdto 04-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "04-06-2014"
+        },
+        {
+          "Hearing Date": "04-06-2014",
+          "Court": "Trial Court",
+          "Business": "IA 193 of 2014 is dismissed as not maintainable. For arguments posted to 10-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "10-06-2014"
+        },
+        {
+          "Hearing Date": "10-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adj to 13-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "13-06-2014"
+        },
+        {
+          "Hearing Date": "13-06-2014",
+          "Court": "Trial Court",
+          "Business": "Suomotu received the order dated 04-06-2014 passed on IA 193 and restored the said IA. IA 193 of 2014 is pending. For arguments posted to 19-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-06-2014"
+        },
+        {
+          "Hearing Date": "19-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adj to 23-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "23-06-2014"
+        },
+        {
+          "Hearing Date": "23-06-2014",
+          "Court": "Trial Court",
+          "Business": "For arguments posted to 24-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "24-06-2014"
+        },
+        {
+          "Hearing Date": "24-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 25-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "25-06-2014"
+        },
+        {
+          "Hearing Date": "25-06-2014",
+          "Court": "Trial Court",
+          "Business": "For argument adjto 30-06-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "30-06-2014"
+        },
+        {
+          "Hearing Date": "30-06-2014",
+          "Court": "Trial Court",
+          "Business": "Heard judgment reserved,",
+          "Purpose": "JUDGEMENT RESERVED",
+          "Next Hearing Date": "21-07-2014"
+        },
+        {
+          "Hearing Date": "21-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. pending call on 22-07-2014",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "22-07-2014"
+        },
+        {
+          "Hearing Date": "22-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. 193 OF 2014 \\ Heard the counsel for petitioner. To hear the respondents posted to 25-07-2014",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "25-07-2014"
+        },
+        {
+          "Hearing Date": "25-07-2014",
+          "Court": "Trial Court",
+          "Business": "I.A. 193 of 2014 \\ Heard the counsel for R3 to R5. For orders posted to 26-07-2014 \\ I.A. pending call on 26-07-2014",
+          "Purpose": "HEARING",
+          "Next Hearing Date": "26-07-2014"
+        },
+        {
+          "Hearing Date": "26-07-2014",
+          "Court": "Trial Court",
+          "Business": "Orders pronounced (VSO). In the result, petition is allowed. 5th defendant is transposed as 3rd plaintiff. Plaintiffs 1 and 2 are directd to amend the plaint by showing the 5th defendant as 3rd plaintiff. If plainitffs 1 and 2 are not interested, the 5the defendant now transposed as 3rd plainitff is directed to make the amendments in the plaint and file the neat copy to proceed further. Petitioner is directed to argue the matter immediately without taking further time after such amendment. \\ Plaintiffs 1 and 2 filed memos stating that they have entered into compromise with defendants 1 and 2. 5th defendant filed the petition to transpose her as 3rd plaintiff same is allowed. For carrying out amendments and filing neat copy of plaint adjourned to 01-08-2014",
+          "Purpose": "AMENDMENTS",
+          "Next Hearing Date": "01-08-2014"
+        },
+        {
+          "Hearing Date": "01-08-2014",
+          "Court": "Trial Court",
+          "Business": "No representation from plaintiffs As per the memos filed by their, they ahve entered into compromised with D1 and D2. Therefore, they are not having interest. Therefore, D5 is directed carryout amendment and file neat copy of plaintiff all on 05-08-2014",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "05-08-2014"
+        },
+        {
+          "Hearing Date": "05-08-2014",
+          "Court": "Trial Court",
+          "Business": "For carrying out amendment in plaintiff by D5 to the extent of transposition area for filing neat copy of plaint adjourned to 06-08-2014",
+          "Purpose": "AMENDMENTS",
+          "Next Hearing Date": "06-08-2014"
+        },
+        {
+          "Hearing Date": "06-08-2014",
+          "Court": "Trial Court",
+          "Business": "Amandment carried out in plaint by 5th defendant who transposed as 3rd plaintiff. Neat copy of plaint filed. For arguments adjourned to 12-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "12-08-2014"
+        },
+        {
+          "Hearing Date": "12-08-2014",
+          "Court": "Trial Court",
+          "Business": "Heard the counsel for 3rd plaintiff to hear the other plaidntiffs and defendants 136 adj to 19-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "19-08-2014"
+        },
+        {
+          "Hearing Date": "19-08-2014",
+          "Court": "Trial Court",
+          "Business": "TO hear te other plaintiffs and defendants 1,3and 6 adj to 21-08-2014",
+          "Purpose": "FOR ARGUMENTS",
+          "Next Hearing Date": "21-08-2014"
+        },
+        {
+          "Hearing Date": "21-08-2014",
+          "Court": "Trial Court",
+          "Business": "Counsel for defendants 1,2 and 6 requested time. Further time not granted. Judgment reserved.",
+          "Purpose": "JUDGMENT",
+          "Next Hearing Date": "08-09-2014"
+        },
+        {
+          "Hearing Date": "08-09-2014",
+          "Court": "Trial Court",
+          "Business": "In the result, a preliminary decree is passed by decreeing the suit in part by granting the following reliefs \\ \\ 1. Plaintiffs 1 to 3 and 4th defendant are not entitled for share in plaint A schedule property \\ \\ 2. Plaintiffs and defendants 1 to 4 are entitled for 1/7th share each in plaint B and C schedule properties \\ \\ 3. in view of the settlement between plaintiffs 1 and 2 and defendants 1 and 2, plaintiffs 1 and 2 are not entitled to enforce the present decree for their respective shares in plaint B and C schedule properties \\ \\ 4. 3rd plaintiff and defendants 1 to 4 are entitled to file separate application for actual division of plaint A and B schedule properties on ground and for separate possession according to their wish as per law and \\ \\ 5. in view of relationship between parties and facts of the case, each party is directed to bear their own costs.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    },
+    {
+      "case_info": {
+        "Case Type": "CC - CALENDAR CASE",
+        "Filing Number": "202780/2010",
+        "Registration Number": "200204/2010",
+        "CNR Number": "APKR050017612010(Note the CNR number for future reference)",
+        "First Hearing Date": "09th February 2012",
+        "Decision Date": "05th October 2015",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Uncontested--REFERRED TO LOK ADALAT",
+        "Court Number and Judge": "2-I Addl  Chief Metropolitan Magistrate Vijayawada",
+        "extraction_timestamp": "2025-07-26 12:03:37"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "09-02-2012",
+          "Court": "Trial Court",
+          "Business": "A.5.A.7 ARE PRESENT. OTHERS ARE ABSENT. FOR EXAMINATION BY 07-03-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "07-03-2012"
+        },
+        {
+          "Hearing Date": "07-03-2012",
+          "Court": "Trial Court",
+          "Business": "A1 TO A7 ARE CALLED PRESENT. FOR EXAMINATION BY 12-05-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "12-05-2012"
+        },
+        {
+          "Hearing Date": "12-05-2012",
+          "Court": "Trial Court",
+          "Business": "TO-DAY BEING PUBLIC HOLIDAY RE-POSTED TO 28-06-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "28-06-2012"
+        },
+        {
+          "Hearing Date": "28-06-2012",
+          "Court": "Trial Court",
+          "Business": "A.1 TO A.6 ARE ABSENT. EXCEPT A.5 PRESENT CALL ON 09-08-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "09-08-2012"
+        },
+        {
+          "Hearing Date": "09-08-2012",
+          "Court": "Trial Court",
+          "Business": "A1,5,7 PRESENT CROSS EXAMINATION BY 27.9.2012",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "27-09-2012"
+        },
+        {
+          "Hearing Date": "27-09-2012",
+          "Court": "Trial Court",
+          "Business": "A7 PRESENT OTHER ACCUSED ABSENT EXAMINATION BY 27.11.2012",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "27-11-2012"
+        },
+        {
+          "Hearing Date": "27-11-2012",
+          "Court": "Trial Court",
+          "Business": "A1 to A7 except a1,5,7 present, for examination by 9-1-2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "09-01-2013"
+        },
+        {
+          "Hearing Date": "09-01-2013",
+          "Court": "Trial Court",
+          "Business": "Accused present, A2 to A4 absent. A5 absent, iseue NBW to A2 to A4, A6 A7 call on 13.2.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "13-02-2013"
+        },
+        {
+          "Hearing Date": "13-02-2013",
+          "Court": "Trial Court",
+          "Business": "A1 A3 A5 absent, examination call on 8.5.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "15-03-2013"
+        },
+        {
+          "Hearing Date": "15-03-2013",
+          "Court": "Trial Court",
+          "Business": "A6 produced on execution of NBW through pC2234 and 1693 of Machavaram PS at 2 pm on 15.3.2013, accused is remanded to judicial custody till 28.3.2013 at District jail, vijayawada",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "28-03-2013"
+        },
+        {
+          "Hearing Date": "28-03-2013",
+          "Court": "Trial Court",
+          "Business": "A6 present call on 8.5.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "08-05-2013"
+        },
+        {
+          "Hearing Date": "08-05-2013",
+          "Court": "Trial Court",
+          "Business": "A1 is present, Appearance of A3,A5 to A7 condone on petition, NBW pending against Accused No.2 , A4. Address a letter to sHO concerned call on 26.7.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "26-07-2013"
+        },
+        {
+          "Hearing Date": "26-07-2013",
+          "Court": "Trial Court",
+          "Business": "Absence of A1,A3 and A6 and absence of A.5 condoned on separate petitions. NBWs pending against A2 and A4. A7 is present. call on 18.10.13.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "18-10-2013"
+        },
+        {
+          "Hearing Date": "18-10-2013",
+          "Court": "Trial Court",
+          "Business": "Since the court employees are on strike as protest against proposal of representation of state of A.P call on11-11-2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "11-11-2013"
+        },
+        {
+          "Hearing Date": "11-11-2013",
+          "Court": "Trial Court",
+          "Business": "A.7 is present. NBW pending against A.2 and A.4. No representation for A.1,A.3, A.5 and A.6.Issue notices to sureties of A.2 and A.4. call on 30.12.13.",
+          "Purpose": "NOTICE",
+          "Next Hearing Date": "30-12-2013"
+        },
+        {
+          "Hearing Date": "30-12-2013",
+          "Court": "Trial Court",
+          "Business": "Absence of A.1, A3 and A5 condoned on petition, A.7 is present, NBW pending against A2 and A4, no representation for A6, issue nbw against A6, issue notices to sureties of A2, A4 and A6 call on 21.3.2014",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "21-03-2014"
+        },
+        {
+          "Hearing Date": "21-03-2014",
+          "Court": "Trial Court",
+          "Business": "A1 and A.7 are present. Absence of A.3, A5 and A.6 condoned on petition. NBWs pending against A.2 and A.4 issue fresh notices to sureties of A.2 and A.4 call on 30-5-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "30-05-2014"
+        },
+        {
+          "Hearing Date": "30-05-2014",
+          "Court": "Trial Court",
+          "Business": "P.O.is on vacation. Hence, case posted to 25.07.2014",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "25-07-2014"
+        },
+        {
+          "Hearing Date": "25-07-2014",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on O.H. hence posted to 1-9-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "01-09-2014"
+        },
+        {
+          "Hearing Date": "01-09-2014",
+          "Court": "Trial Court",
+          "Business": "Absence of A.3 and A.6 condoned on petition. A.1,A.5 and A.7 are present. A.2 is not produced from District jail, VJA. NBW pending against A.4 RE for A.2 till 15-9-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "15-09-2014"
+        },
+        {
+          "Hearing Date": "15-09-2014",
+          "Court": "Trial Court",
+          "Business": "A1 to A3, A5 and A.7 are present. NBW pending against A.4 No rep. for A.6. Hence issue NBW against A.6 call on 29-9-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "29-09-2014"
+        },
+        {
+          "Hearing Date": "29-09-2014",
+          "Court": "Trial Court",
+          "Business": "A1 to A.3 are present. Absence of A5 condoned on petition. NBWs pending against A.4 and A.6 Issue notices to sureties of A.4 and A.6 call on 28-10-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "28-10-2014"
+        },
+        {
+          "Hearing Date": "28-10-2014",
+          "Court": "Trial Court",
+          "Business": "A3 and A5 are present. A.1,A.2 and A.7 are called absent. No rep.on their behalf. Issue NBWs against A.1,A.2 and A.7. NBWS pending against A.4 and A.6 andnotices to sureties of A.1,A.2, A4 and A.7.",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "19-12-2014"
+        },
+        {
+          "Hearing Date": "19-12-2014",
+          "Court": "Trial Court",
+          "Business": "A1 to A3,A5 and A7 are present. NBWs pending against A4 and A6. Issue fresh notices to sureties of A4 and A6.call on 30-1-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "30-01-2015"
+        },
+        {
+          "Hearing Date": "30-01-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.o. is on O.D.hence posted to 16-2-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "16-02-2015"
+        },
+        {
+          "Hearing Date": "16-02-2015",
+          "Court": "Trial Court",
+          "Business": "A1 to A3 are present. Absence of A.5 and A6 condoned on petition. NBW pending against A.4. Issue fresh notices to sureties of A.4 call on 16-3-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "16-03-2015"
+        },
+        {
+          "Hearing Date": "16-03-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on C.L. hence posted to 13-4-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "13-04-2015"
+        },
+        {
+          "Hearing Date": "13-04-2015",
+          "Court": "Trial Court",
+          "Business": "A.2,A.3 and A.7 are present. A.4 is produced from Sub Jail, Repalle. Absence of A.5 condoned on petition. A.1 and A.6 are called absent. No rep. on their behalf. Hence issue NBWs against A.1 and A.6. RE for A.4 till 27-4-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "27-04-2015"
+        },
+        {
+          "Hearing Date": "27-04-2015",
+          "Court": "Trial Court",
+          "Business": "Accused produced from District Jail, RE till 11-5-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "11-05-2015"
+        },
+        {
+          "Hearing Date": "11-05-2015",
+          "Court": "Trial Court",
+          "Business": "A.4 not produced from District Jail, VJA. NBWs pending against A.1 and A.6. \\ A.2,A.3,A.5 and A.7 are present. Issue notices to sureties of A.1 and A.6. RE fro A.4 till 25-5-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "25-05-2015"
+        },
+        {
+          "Hearing Date": "25-05-2015",
+          "Court": "Trial Court",
+          "Business": "NBW pending against A.1 and A.6. A.2,A.3, A.5 and A.7 are present. A.4 is not produced from District Jail, Vijayawada. RE for A.4 till 08-06-2015.",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "08-06-2015"
+        },
+        {
+          "Hearing Date": "08-06-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on O.D. Hence posted to 29-6-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "29-06-2015"
+        },
+        {
+          "Hearing Date": "29-06-2015",
+          "Court": "Trial Court",
+          "Business": "A.2,A.3 and A.5 are present. Absence of A.4 and A.7 condoned on petition. NBWs pending against A.1 and A.6. call on 13-7-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "13-07-2015"
+        },
+        {
+          "Hearing Date": "13-07-2015",
+          "Court": "Trial Court",
+          "Business": "A.1 is produced from District Jail, VJA. A.2 to A.5, A.7 are present. NBW pending against A.6. Issue notices to sureties of a.6. RE for A.1. till 27-7-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "27-07-2015"
+        },
+        {
+          "Hearing Date": "27-07-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on O.D. Hence posted to 10-8-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "10-08-2015"
+        },
+        {
+          "Hearing Date": "10-08-2015",
+          "Court": "Trial Court",
+          "Business": "A.1 is produced from District Jail, VJA.A.2 to A.5 and A.7 are present.NBW pending against A.6. Issue fresh notices to surties of A.6. RE for A.1 till 24-8-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "24-08-2015"
+        },
+        {
+          "Hearing Date": "24-08-2015",
+          "Court": "Trial Court",
+          "Business": "A.1 is produced from District Jail, VJA. A.2 to A.3,A.5 and A.7 are present.NBW pending against A.6. No rep for A.4. Issue NBW against A.4 and notices to sureties of A.4 and A.6. RE for A.1. till 7-9-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "07-09-2015"
+        },
+        {
+          "Hearing Date": "07-09-2015",
+          "Court": "Trial Court",
+          "Business": "Crl.M.P. notice to Asst. P.P. is given. Proof memo is filed. For hearing callon 8-9-15 \\ Crl.M.P.No. issue notices to Asst. P.P. call on 8-9-15 \\ A.1 is not produced from district Jail, VJA. \\ A.4 is produced from district Jail, VJA.A.2,A.3,A.5,A.6 and A.7 are present. The petition filed for recall NBW issued against A.6 is dismissed by assigning the reasons. A.6 is remanded to Judicial custody. till 21-9-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "21-09-2015"
+        },
+        {
+          "Hearing Date": "21-09-2015",
+          "Court": "Trial Court",
+          "Business": "A.4 and A.6 are produced from District Jail, VJA. A.2 to A.3,A.5 and A.7 are present. A.1 is not produced from District Jail, VJA. For consideration. RE for A.1,A.4 and A.6. till 28-9-15",
+          "Purpose": "CONSIDERATION OF CHARGES",
+          "Next Hearing Date": "28-09-2015"
+        },
+        {
+          "Hearing Date": "28-09-2015",
+          "Court": "Trial Court",
+          "Business": "Accused Nos.1 and 4 are produced from District Jail, VJA. A.2,A.3, A.5 to A.7 are present. They are examined U/Sec.239 Cr.P.C. explaining the allegations levelled by the prosecution. The accused denied the accusation levelled against them. Heard. Charge U/Sec.379 or 411 of IPC is framed, read over and explained to them for which they pleaded not guilty. Issue summons to L.Ws.1 to 4. RE for A.1 and A.4. till 5-10-15",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "05-10-2015"
+        },
+        {
+          "Hearing Date": "05-10-2015",
+          "Court": "Trial Court",
+          "Business": "Accused Nos.1,4 are produced from District Jail, VJA. Remaining accused are present. \\ Defacto Complainants in both crimes,and police concerned are present. This matter is settled between the both parties as per the terms and conditions arrived at between the both parties before the Lok Adalat bench amicably, award is passed accordingly. Hence, all accused are acquitted U/S.320(8) Cr.P.C for the offence U/S.379 or 411 of IPC.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    },
+    {
+      "case_info": {
+        "Case Type": "CC - CALENDAR CASE",
+        "Filing Number": "202780/2010",
+        "Registration Number": "200204/2010",
+        "CNR Number": "APKR050017612010(Note the CNR number for future reference)",
+        "First Hearing Date": "09th February 2012",
+        "Decision Date": "05th October 2015",
+        "Case Status": "Case disposed",
+        "Nature of Disposal": "Uncontested--REFERRED TO LOK ADALAT",
+        "Court Number and Judge": "2-I Addl  Chief Metropolitan Magistrate Vijayawada",
+        "extraction_timestamp": "2025-07-26 12:05:34"
+      },
+      "hearings": [
+        {
+          "Hearing Date": "09-02-2012",
+          "Court": "Trial Court",
+          "Business": "A.5.A.7 ARE PRESENT. OTHERS ARE ABSENT. FOR EXAMINATION BY 07-03-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "07-03-2012"
+        },
+        {
+          "Hearing Date": "07-03-2012",
+          "Court": "Trial Court",
+          "Business": "A1 TO A7 ARE CALLED PRESENT. FOR EXAMINATION BY 12-05-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "12-05-2012"
+        },
+        {
+          "Hearing Date": "12-05-2012",
+          "Court": "Trial Court",
+          "Business": "TO-DAY BEING PUBLIC HOLIDAY RE-POSTED TO 28-06-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "28-06-2012"
+        },
+        {
+          "Hearing Date": "28-06-2012",
+          "Court": "Trial Court",
+          "Business": "A.1 TO A.6 ARE ABSENT. EXCEPT A.5 PRESENT CALL ON 09-08-2012.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "09-08-2012"
+        },
+        {
+          "Hearing Date": "09-08-2012",
+          "Court": "Trial Court",
+          "Business": "A1,5,7 PRESENT CROSS EXAMINATION BY 27.9.2012",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "27-09-2012"
+        },
+        {
+          "Hearing Date": "27-09-2012",
+          "Court": "Trial Court",
+          "Business": "A7 PRESENT OTHER ACCUSED ABSENT EXAMINATION BY 27.11.2012",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "27-11-2012"
+        },
+        {
+          "Hearing Date": "27-11-2012",
+          "Court": "Trial Court",
+          "Business": "A1 to A7 except a1,5,7 present, for examination by 9-1-2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "09-01-2013"
+        },
+        {
+          "Hearing Date": "09-01-2013",
+          "Court": "Trial Court",
+          "Business": "Accused present, A2 to A4 absent. A5 absent, iseue NBW to A2 to A4, A6 A7 call on 13.2.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "13-02-2013"
+        },
+        {
+          "Hearing Date": "13-02-2013",
+          "Court": "Trial Court",
+          "Business": "A1 A3 A5 absent, examination call on 8.5.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "15-03-2013"
+        },
+        {
+          "Hearing Date": "15-03-2013",
+          "Court": "Trial Court",
+          "Business": "A6 produced on execution of NBW through pC2234 and 1693 of Machavaram PS at 2 pm on 15.3.2013, accused is remanded to judicial custody till 28.3.2013 at District jail, vijayawada",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "28-03-2013"
+        },
+        {
+          "Hearing Date": "28-03-2013",
+          "Court": "Trial Court",
+          "Business": "A6 present call on 8.5.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "08-05-2013"
+        },
+        {
+          "Hearing Date": "08-05-2013",
+          "Court": "Trial Court",
+          "Business": "A1 is present, Appearance of A3,A5 to A7 condone on petition, NBW pending against Accused No.2 , A4. Address a letter to sHO concerned call on 26.7.2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "26-07-2013"
+        },
+        {
+          "Hearing Date": "26-07-2013",
+          "Court": "Trial Court",
+          "Business": "Absence of A1,A3 and A6 and absence of A.5 condoned on separate petitions. NBWs pending against A2 and A4. A7 is present. call on 18.10.13.",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "18-10-2013"
+        },
+        {
+          "Hearing Date": "18-10-2013",
+          "Court": "Trial Court",
+          "Business": "Since the court employees are on strike as protest against proposal of representation of state of A.P call on11-11-2013",
+          "Purpose": "EXAMINATION",
+          "Next Hearing Date": "11-11-2013"
+        },
+        {
+          "Hearing Date": "11-11-2013",
+          "Court": "Trial Court",
+          "Business": "A.7 is present. NBW pending against A.2 and A.4. No representation for A.1,A.3, A.5 and A.6.Issue notices to sureties of A.2 and A.4. call on 30.12.13.",
+          "Purpose": "NOTICE",
+          "Next Hearing Date": "30-12-2013"
+        },
+        {
+          "Hearing Date": "30-12-2013",
+          "Court": "Trial Court",
+          "Business": "Absence of A.1, A3 and A5 condoned on petition, A.7 is present, NBW pending against A2 and A4, no representation for A6, issue nbw against A6, issue notices to sureties of A2, A4 and A6 call on 21.3.2014",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "21-03-2014"
+        },
+        {
+          "Hearing Date": "21-03-2014",
+          "Court": "Trial Court",
+          "Business": "A1 and A.7 are present. Absence of A.3, A5 and A.6 condoned on petition. NBWs pending against A.2 and A.4 issue fresh notices to sureties of A.2 and A.4 call on 30-5-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "30-05-2014"
+        },
+        {
+          "Hearing Date": "30-05-2014",
+          "Court": "Trial Court",
+          "Business": "P.O.is on vacation. Hence, case posted to 25.07.2014",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "25-07-2014"
+        },
+        {
+          "Hearing Date": "25-07-2014",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on O.H. hence posted to 1-9-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "01-09-2014"
+        },
+        {
+          "Hearing Date": "01-09-2014",
+          "Court": "Trial Court",
+          "Business": "Absence of A.3 and A.6 condoned on petition. A.1,A.5 and A.7 are present. A.2 is not produced from District jail, VJA. NBW pending against A.4 RE for A.2 till 15-9-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "15-09-2014"
+        },
+        {
+          "Hearing Date": "15-09-2014",
+          "Court": "Trial Court",
+          "Business": "A1 to A3, A5 and A.7 are present. NBW pending against A.4 No rep. for A.6. Hence issue NBW against A.6 call on 29-9-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "29-09-2014"
+        },
+        {
+          "Hearing Date": "29-09-2014",
+          "Court": "Trial Court",
+          "Business": "A1 to A.3 are present. Absence of A5 condoned on petition. NBWs pending against A.4 and A.6 Issue notices to sureties of A.4 and A.6 call on 28-10-14",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "28-10-2014"
+        },
+        {
+          "Hearing Date": "28-10-2014",
+          "Court": "Trial Court",
+          "Business": "A3 and A5 are present. A.1,A.2 and A.7 are called absent. No rep.on their behalf. Issue NBWs against A.1,A.2 and A.7. NBWS pending against A.4 and A.6 andnotices to sureties of A.1,A.2, A4 and A.7.",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "19-12-2014"
+        },
+        {
+          "Hearing Date": "19-12-2014",
+          "Court": "Trial Court",
+          "Business": "A1 to A3,A5 and A7 are present. NBWs pending against A4 and A6. Issue fresh notices to sureties of A4 and A6.call on 30-1-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "30-01-2015"
+        },
+        {
+          "Hearing Date": "30-01-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.o. is on O.D.hence posted to 16-2-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "16-02-2015"
+        },
+        {
+          "Hearing Date": "16-02-2015",
+          "Court": "Trial Court",
+          "Business": "A1 to A3 are present. Absence of A.5 and A6 condoned on petition. NBW pending against A.4. Issue fresh notices to sureties of A.4 call on 16-3-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "16-03-2015"
+        },
+        {
+          "Hearing Date": "16-03-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on C.L. hence posted to 13-4-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "13-04-2015"
+        },
+        {
+          "Hearing Date": "13-04-2015",
+          "Court": "Trial Court",
+          "Business": "A.2,A.3 and A.7 are present. A.4 is produced from Sub Jail, Repalle. Absence of A.5 condoned on petition. A.1 and A.6 are called absent. No rep. on their behalf. Hence issue NBWs against A.1 and A.6. RE for A.4 till 27-4-15",
+          "Purpose": "NOTICE TO SURITIES",
+          "Next Hearing Date": "27-04-2015"
+        },
+        {
+          "Hearing Date": "27-04-2015",
+          "Court": "Trial Court",
+          "Business": "Accused produced from District Jail, RE till 11-5-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "11-05-2015"
+        },
+        {
+          "Hearing Date": "11-05-2015",
+          "Court": "Trial Court",
+          "Business": "A.4 not produced from District Jail, VJA. NBWs pending against A.1 and A.6. \\ A.2,A.3,A.5 and A.7 are present. Issue notices to sureties of A.1 and A.6. RE fro A.4 till 25-5-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "25-05-2015"
+        },
+        {
+          "Hearing Date": "25-05-2015",
+          "Court": "Trial Court",
+          "Business": "NBW pending against A.1 and A.6. A.2,A.3, A.5 and A.7 are present. A.4 is not produced from District Jail, Vijayawada. RE for A.4 till 08-06-2015.",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "08-06-2015"
+        },
+        {
+          "Hearing Date": "08-06-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on O.D. Hence posted to 29-6-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "29-06-2015"
+        },
+        {
+          "Hearing Date": "29-06-2015",
+          "Court": "Trial Court",
+          "Business": "A.2,A.3 and A.5 are present. Absence of A.4 and A.7 condoned on petition. NBWs pending against A.1 and A.6. call on 13-7-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "13-07-2015"
+        },
+        {
+          "Hearing Date": "13-07-2015",
+          "Court": "Trial Court",
+          "Business": "A.1 is produced from District Jail, VJA. A.2 to A.5, A.7 are present. NBW pending against A.6. Issue notices to sureties of a.6. RE for A.1. till 27-7-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "27-07-2015"
+        },
+        {
+          "Hearing Date": "27-07-2015",
+          "Court": "Trial Court",
+          "Business": "Today P.O. is on O.D. Hence posted to 10-8-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "10-08-2015"
+        },
+        {
+          "Hearing Date": "10-08-2015",
+          "Court": "Trial Court",
+          "Business": "A.1 is produced from District Jail, VJA.A.2 to A.5 and A.7 are present.NBW pending against A.6. Issue fresh notices to surties of A.6. RE for A.1 till 24-8-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "24-08-2015"
+        },
+        {
+          "Hearing Date": "24-08-2015",
+          "Court": "Trial Court",
+          "Business": "A.1 is produced from District Jail, VJA. A.2 to A.3,A.5 and A.7 are present.NBW pending against A.6. No rep for A.4. Issue NBW against A.4 and notices to sureties of A.4 and A.6. RE for A.1. till 7-9-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "07-09-2015"
+        },
+        {
+          "Hearing Date": "07-09-2015",
+          "Court": "Trial Court",
+          "Business": "Crl.M.P. notice to Asst. P.P. is given. Proof memo is filed. For hearing callon 8-9-15 \\ Crl.M.P.No. issue notices to Asst. P.P. call on 8-9-15 \\ A.1 is not produced from district Jail, VJA. \\ A.4 is produced from district Jail, VJA.A.2,A.3,A.5,A.6 and A.7 are present. The petition filed for recall NBW issued against A.6 is dismissed by assigning the reasons. A.6 is remanded to Judicial custody. till 21-9-15",
+          "Purpose": "CALL ON",
+          "Next Hearing Date": "21-09-2015"
+        },
+        {
+          "Hearing Date": "21-09-2015",
+          "Court": "Trial Court",
+          "Business": "A.4 and A.6 are produced from District Jail, VJA. A.2 to A.3,A.5 and A.7 are present. A.1 is not produced from District Jail, VJA. For consideration. RE for A.1,A.4 and A.6. till 28-9-15",
+          "Purpose": "CONSIDERATION OF CHARGES",
+          "Next Hearing Date": "28-09-2015"
+        },
+        {
+          "Hearing Date": "28-09-2015",
+          "Court": "Trial Court",
+          "Business": "Accused Nos.1 and 4 are produced from District Jail, VJA. A.2,A.3, A.5 to A.7 are present. They are examined U/Sec.239 Cr.P.C. explaining the allegations levelled by the prosecution. The accused denied the accusation levelled against them. Heard. Charge U/Sec.379 or 411 of IPC is framed, read over and explained to them for which they pleaded not guilty. Issue summons to L.Ws.1 to 4. RE for A.1 and A.4. till 5-10-15",
+          "Purpose": "FOR TRIAL",
+          "Next Hearing Date": "05-10-2015"
+        },
+        {
+          "Hearing Date": "05-10-2015",
+          "Court": "Trial Court",
+          "Business": "Accused Nos.1,4 are produced from District Jail, VJA. Remaining accused are present. \\ Defacto Complainants in both crimes,and police concerned are present. This matter is settled between the both parties as per the terms and conditions arrived at between the both parties before the Lok Adalat bench amicably, award is passed accordingly. Hence, all accused are acquitted U/S.320(8) Cr.P.C for the offence U/S.379 or 411 of IPC.",
+          "Purpose": "Not mentioned",
+          "Next Hearing Date": "Not mentioned"
+        }
+      ]
+    }
+  ]
+}

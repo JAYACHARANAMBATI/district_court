@@ -1,0 +1,37 @@
+{
+  "case_info": {
+    "Case Type": "OS - ORIGINAL SUIT",
+    "Filing Number": "9831/2012",
+    "Registration Number": "216/2012",
+    "CNR Number": "APKR030032292012(Note the CNR number for future reference)",
+    "First Hearing Date": "23rd August 2012",
+    "Decision Date": "18th November 2013",
+    "Case Status": "Case disposed",
+    "Nature of Disposal": "Contested--DISMISSED AS NOT PRESSED",
+    "Court Number and Judge": "5-VII Additional District and Sessions Judge (FTC) Vijayawada",
+    "extraction_timestamp": "2025-08-20 17:36:19"
+  },
+  "hearings": [
+    {
+      "Hearing Date": "24-09-2013",
+      "Court": "Trial Court",
+      "Business": "Both parties and advocates are not present. For compromise between parties according to their request. Call on 6-11-2013.",
+      "Purpose": "FOR FILING COMPROMISE",
+      "Next Hearing Date": "06-11-2013"
+    },
+    {
+      "Hearing Date": "06-11-2013",
+      "Court": "Trial Court",
+      "Business": "At request for compromise between parties. Call on 18-11-2013.",
+      "Purpose": "FOR FILING COMPROMISE",
+      "Next Hearing Date": "18-11-2013"
+    },
+    {
+      "Hearing Date": "18-11-2013",
+      "Court": "Trial Court",
+      "Business": "Couusel for plaintiff filed memo, stating that the plaintiff not pressing the suit as his claim was satisfied. In view of the memo suit is dismissed as not pressed without costs.",
+      "Purpose": "Not mentioned",
+      "Next Hearing Date": "Not mentioned"
+    }
+  ]
+}

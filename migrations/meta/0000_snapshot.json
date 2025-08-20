@@ -1,0 +1,167 @@
+{
+  "id": "4b18fcd4-8e4a-4288-8eed-3ee8f05a28a8",
+  "prevId": "00000000-0000-0000-0000-000000000000",
+  "version": "7",
+  "dialect": "postgresql",
+  "tables": {
+    "public.cases": {
+      "name": "cases",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "serial",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "case_type": {
+          "name": "case_type",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "filing_number": {
+          "name": "filing_number",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "registration_number": {
+          "name": "registration_number",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "cnr_number": {
+          "name": "cnr_number",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "first_hearing_date": {
+          "name": "first_hearing_date",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "decision_date": {
+          "name": "decision_date",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "case_status": {
+          "name": "case_status",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "nature_of_disposal": {
+          "name": "nature_of_disposal",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "court_and_judge": {
+          "name": "court_and_judge",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "extraction_timestamp": {
+          "name": "extraction_timestamp",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    },
+    "public.hearings": {
+      "name": "hearings",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "serial",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "caseId": {
+          "name": "caseId",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "hearing_date": {
+          "name": "hearing_date",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "court": {
+          "name": "court",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "business": {
+          "name": "business",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "purpose": {
+          "name": "purpose",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "next_hearing_date": {
+          "name": "next_hearing_date",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {
+        "hearings_caseId_cases_id_fk": {
+          "name": "hearings_caseId_cases_id_fk",
+          "tableFrom": "hearings",
+          "tableTo": "cases",
+          "columnsFrom": [
+            "caseId"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    }
+  },
+  "enums": {},
+  "schemas": {},
+  "sequences": {},
+  "roles": {},
+  "policies": {},
+  "views": {},
+  "_meta": {
+    "columns": {},
+    "schemas": {},
+    "tables": {}
+  }
+}

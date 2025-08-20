@@ -1,0 +1,21 @@
+meta {
+  name: Content-Type: application/json
+  type: http
+  seq: 1
+}
+
+post {
+  url: http://127.0.0.1:8000/case
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+      "CNR Number": "APKR030032292012"
+  }
+}
+
+settings {
+  encodeUrl: true
+}
