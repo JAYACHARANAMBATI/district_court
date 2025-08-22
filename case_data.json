@@ -1,37 +1,156 @@
 {
   "case_info": {
-    "Case Type": "OS - ORIGINAL SUIT",
-    "Filing Number": "9831/2012",
-    "Registration Number": "216/2012",
-    "CNR Number": "APKR030032292012(Note the CNR number for future reference)",
-    "First Hearing Date": "23rd August 2012",
-    "Decision Date": "18th November 2013",
-    "Case Status": "Case disposed",
-    "Nature of Disposal": "Contested--DISMISSED AS NOT PRESSED",
-    "Court Number and Judge": "5-VII Additional District and Sessions Judge (FTC) Vijayawada",
-    "extraction_timestamp": "2025-08-20 17:36:19"
+    "Case Type": "CC - CALENDAR CASE",
+    "Filing Number": "9085/2022",
+    "Registration Number": "1089/2022",
+    "CNR Number": "APPR0A0098892022(Note the CNR number for future reference)",
+    "First Hearing Date": "07th October 2022",
+    "Decision Date": "Not available",
+    "Case Status": "",
+    "Nature of Disposal": "Not available",
+    "Court Number and Judge": "6-JMFC, SPL. MOBILE COURT, ONGOLE",
+    "extraction_timestamp": "2025-08-22 10:25:37"
   },
   "hearings": [
     {
-      "Hearing Date": "24-09-2013",
+      "Hearing Date": "07-10-2022",
       "Court": "Trial Court",
-      "Business": "Both parties and advocates are not present. For compromise between parties according to their request. Call on 6-11-2013.",
-      "Purpose": "FOR FILING COMPROMISE",
-      "Next Hearing Date": "06-11-2013"
+      "Business": "Complainant present. Batta paid. Issue fresh summons to accused call on 02.01.2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "02-01-2023"
     },
     {
-      "Hearing Date": "06-11-2013",
+      "Hearing Date": "02-01-2023",
       "Court": "Trial Court",
-      "Business": "At request for compromise between parties. Call on 18-11-2013.",
-      "Purpose": "FOR FILING COMPROMISE",
-      "Next Hearing Date": "18-11-2013"
+      "Business": "Complainant called absent his absence is condoned on petition. Await summons of accused call on 12.04.2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "12-04-2023"
     },
     {
-      "Hearing Date": "18-11-2013",
+      "Hearing Date": "12-04-2023",
       "Court": "Trial Court",
-      "Business": "Couusel for plaintiff filed memo, stating that the plaintiff not pressing the suit as his claim was satisfied. In view of the memo suit is dismissed as not pressed without costs.",
-      "Purpose": "Not mentioned",
-      "Next Hearing Date": "Not mentioned"
+      "Business": "PO is on training. Hence, the case is posted to 06.06.2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "06-06-2023"
+    },
+    {
+      "Hearing Date": "06-06-2023",
+      "Court": "Trial Court",
+      "Business": "P.O is on vacation. Hence the case is posted to 14-07-2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "14-07-2023"
+    },
+    {
+      "Hearing Date": "14-07-2023",
+      "Court": "Trial Court",
+      "Business": "Complainant absent his absence is condoned on petition. Issue fresh summons to accused on payment of process call on 14.09.2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "14-09-2023"
+    },
+    {
+      "Hearing Date": "14-09-2023",
+      "Court": "Trial Court",
+      "Business": "Complainant absent his absence is condoned on petition. Complainant counsel filed petition under section 62(2) for issuing Hand over summons. Issue hand over summons to accused call on 18.10.2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "18-10-2023"
+    },
+    {
+      "Hearing Date": "18-10-2023",
+      "Court": "Trial Court",
+      "Business": "Complainant is present. Issue hand over summons to accused call on 28.11.2023.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "28-11-2023"
+    },
+    {
+      "Hearing Date": "28-11-2023",
+      "Court": "Trial Court",
+      "Business": "Complainant absent his absence is condoned on petition. Batta paid. Issue fresh summons to accused call on 04.01.2024.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "04-01-2024"
+    },
+    {
+      "Hearing Date": "04-01-2024",
+      "Court": "Trial Court",
+      "Business": "P.O is on training. Hence the case is posted to 22.02.2024.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "22-02-2024"
+    },
+    {
+      "Hearing Date": "22-02-2024",
+      "Court": "Trial Court",
+      "Business": "Complainant absent. Petition filed and allowed. Await hand over summons call on 11.04.2024.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "11-04-2024"
+    },
+    {
+      "Hearing Date": "11-04-2024",
+      "Court": "Trial Court",
+      "Business": "Today being public holiday. Hence the case is posted to 14.06.2024.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "14-06-2024"
+    },
+    {
+      "Hearing Date": "14-06-2024",
+      "Court": "Trial Court",
+      "Business": "PO is on summer vacation. Hence the case is posted to 28.08.2024.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "28-08-2024"
+    },
+    {
+      "Hearing Date": "28-08-2024",
+      "Court": "Trial Court",
+      "Business": "PO is on training. Hence the case is posted to 28.10.2024",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "28-10-2024"
+    },
+    {
+      "Hearing Date": "28-10-2024",
+      "Court": "Trial Court",
+      "Business": "PO is on training. Hence the case is posted to 27.12.2024.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "27-12-2024"
+    },
+    {
+      "Hearing Date": "27-12-2024",
+      "Court": "Trial Court",
+      "Business": "Complainant absent no representation. Issue fresh summons to accused. Call on 29.01.2025.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "29-01-2025"
+    },
+    {
+      "Hearing Date": "29-01-2025",
+      "Court": "Trial Court",
+      "Business": "PO is on training. Hence the case is posted to 20.03.2025",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "20-03-2025"
+    },
+    {
+      "Hearing Date": "20-03-2025",
+      "Court": "Trial Court",
+      "Business": "PO is on training. Hence the case is posted to 14.05.2025.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "14-05-2025"
+    },
+    {
+      "Hearing Date": "14-05-2025",
+      "Court": "Trial Court",
+      "Business": "Complainant absent. Petition filed and allowed. Process paid. Issue fresh summons to accused call on 25.06.2025.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "25-06-2025"
+    },
+    {
+      "Hearing Date": "25-06-2025",
+      "Court": "Trial Court",
+      "Business": "Complainant absent. Petition filed and allowed. Accused absent. Issue fresh summons to accused to correct address on payment of process call on 29.07.2025.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "29-07-2025"
+    },
+    {
+      "Hearing Date": "29-07-2025",
+      "Court": "Trial Court",
+      "Business": "PO is on O.D. Hence the case is posted to 22.08.2025.",
+      "Purpose": "SUMMONS",
+      "Next Hearing Date": "22-08-2025"
     }
   ]
 }
