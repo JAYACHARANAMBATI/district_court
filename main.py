@@ -17,6 +17,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from concurrent.futures import ThreadPoolExecutor
 import re
+from webdriver_manager.chrome import ChromeDriverManager
 
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
@@ -54,7 +55,7 @@ def solve_and_load_case(cnr_number):
         # Setup browser
         options = Options()
         options.add_argument('--headless')
-        driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
         driver.get("https://services.ecourts.gov.in/ecourtindia_v6/")
 
         try:
@@ -125,7 +126,7 @@ def solve_and_load_case(cnr_number):
 def extract_hearing_data(onclick_data):
     options = Options()
     options.add_argument('--headless')
-    driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
     try:
         driver.get("https://services.ecourts.gov.in/ecourtindia_v6/")
