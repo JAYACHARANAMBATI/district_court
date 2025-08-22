@@ -26,8 +26,10 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 
 
+
 CHROME_DRIVER_PATH = r"C:\Users\91964\OneDrive\Desktop\district_court\chromedriver-win64\chromedriver.exe"
 os.environ["GOOGLE_API_KEY"] = "AIzaSyBPE2vHlvSFI7AA43iUgJgnr9mR7WQFx6o"
+
 MAX_CAPTCHA_ATTEMPTS = 10
 
 def solve_captcha_with_gemini(img_path, api_key):
