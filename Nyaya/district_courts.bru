@@ -1,0 +1,29 @@
+meta {
+  name: district_courts
+  type: http
+  seq: 1
+}
+
+post {
+  url: http://localhost:8000/upload
+  body: text
+  auth: inherit
+}
+
+body:json {
+  {
+      "CNR Number": "APKR030029352013"
+  }
+}
+
+body:text {
+  ["{\"cino\":\"APPR0A0098892022\",\"type_name\":\"CC\",\"case_no\":\"202100010892022\",\"reg_year\":2022,\"reg_no\":1089,\"petparty_name\":\"Sulamangalam Srinivasulu\",\"resparty_name\":\"Kanamarlapudi Madhava Ram Kumar\",\"fil_year\":\"0\",\"fil_no\":\"0\",\"establishment_name\":\"JUNIOR CIVIL JUDGE COURT, ONGOLE,PRAKASAM DISTRICT\",\"establishment_code\":\"APPR0A\",\"state_code\":\"2\",\"district_code\":\"17\",\"state_name\":\"Andhra Pradesh\",\"district_name\":\"Prakasham\",\"date_next_list\":\"2025-07-29\",\"date_of_decision\":null,\"date_last_list\":\"2025-06-25\",\"updated\":true,\"court_no_desg_name\":\"JMFC, SPL. MOBILE COURT, ONGOLE\",\"ltype_name\":\"\",\"lpetparty_name\":\"\",\"lresparty_name\":\"\",\"lestablishment_name\":\"\",\"lstate_name\":\"\",\"ldistrict_name\":\"\",\"lcourt_no_desg_name\":\"\",\"note\":\"\",\"purpose_name\":\"SUMMONS\",\"lpurpose_name\":\"\"}","{\"cino\":\"APKR050031942023\",\"type_name\":\"CC\",\"case_no\":\"202100027032023\",\"reg_year\":2023,\"reg_no\":2703,\"petparty_name\":\"Sub Inspector of Police, Patamata PS\",\"resparty_name\":\"Vegesna. SrinivasaRaju\",\"fil_year\":\"0\",\"fil_no\":\"0\",\"establishment_name\":\"Chief Metropolitan Magistrate, Vijayawada\",\"establishment_code\":\"APKR05\",\"state_code\":\"2\",\"district_code\":\"11\",\"state_name\":\"Andhra Pradesh\",\"district_name\":\"Krishna\",\"date_next_list\":\"2025-08-05\",\"date_of_decision\":null,\"date_last_list\":\"2025-06-13\",\"updated\":true,\"court_no_desg_name\":\"IV Addl. Chief Metropolitan Magistrate, Vijayawada\",\"ltype_name\":null,\"lpetparty_name\":\"\",\"lresparty_name\":\"\",\"lestablishment_name\":\"\",\"lstate_name\":\"\",\"ldistrict_name\":\"\",\"lcourt_no_desg_name\":\"\",\"note\":\"\",\"purpose_name\":\"EXAMINATION\",\"lpurpose_name\":\"\"}","{\"cino\":\"APKR020016312021\",\"type_name\":\"OS\",\"case_no\":\"201700002402021\",\"reg_year\":2021,\"reg_no\":240,\"petparty_name\":\"Perambakam Samrajyam\",\"resparty_name\":\"Abdul Jabbar\",\"fil_year\":\"0\",\"fil_no\":\"0\",\"establishment_name\":\"Junior Civil Judge Court, Machilipatnam\",\"establishment_code\":\"APKR02\",\"state_code\":\"2\",\"district_code\":\"11\",\"state_name\":\"Andhra Pradesh\",\"district_name\":\"Krishna\",\"date_next_list\":\"2025-07-24\",\"date_of_decision\":null,\"date_last_list\":\"2025-06-24\",\"updated\":true,\"court_no_desg_name\":\"Judl.Magistrate of Ist Class,Spl.Mobile Court,MTM\",\"ltype_name\":null,\"lpetparty_name\":\"\",\"lresparty_name\":\"\",\"lestablishment_name\":\"\",\"lstate_name\":\"\",\"ldistrict_name\":\"\",\"lcourt_no_desg_name\":\"\",\"note\":\"\",\"purpose_name\":\"CALL WITH IAS\",\"lpurpose_name\":\"\"}"]
+}
+
+body:file {
+  file: @file(C:\Users\91964\OneDrive\Desktop\district_court\Ravi_myCases.txt) @contentType(form-data)
+}
+
+settings {
+  encodeUrl: true
+}
