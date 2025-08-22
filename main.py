@@ -27,7 +27,7 @@ from langchain.chains import RetrievalQA
 
 
 
-CHROME_DRIVER_PATH = r"C:\Users\91964\OneDrive\Desktop\district_court\chromedriver-win64\chromedriver.exe"
+CHROME_DRIVER_PATH = "./chromedriver"
 os.environ["GOOGLE_API_KEY"] = "AIzaSyBPE2vHlvSFI7AA43iUgJgnr9mR7WQFx6o"
 
 MAX_CAPTCHA_ATTEMPTS = 10
