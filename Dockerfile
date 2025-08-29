@@ -2,25 +2,32 @@ FROM python:3.11-slim
 
 # Install system dependencies
 RUN apt-get update && \
-    apt-get install -y chromium-driver chromium-browser && \
+    apt-get install -y chromium chromium-driver curl && \
+    curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+    apt-get install -y nodejs && \
     rm -rf /var/lib/apt/lists/*
 
-# Set environment variables for Chromium
-ENV CHROME_BIN=/usr/bin/chromium-browser
-ENV CHROMEDRIVER_PATH=/usr/bin/chromedriver
+ENV CHROME_BIN=/usr/bin/chromium
+ENV CHROMEDRIVER_PATH=/usr/bin/chromium-driver
+ENV PYTHONUNBUFFERED=1
 
-# Set workdir
 WORKDIR /app
 
-# Copy requirements and install
+# Install Python dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy your code
+# Install Node.js dependencies if needed
+COPY package.json package-lock.json* ./
+RUN if [ -f package.json ]; then npm install; fi
+
+# Copy project files
 COPY . .
 
-# Expose port
 EXPOSE 8000
 
-# Start FastAPI
+# Optional: Use a non-root user for security
+RUN useradd -m appuser && chown -R appuser /app
+USER appuser
+
 CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
