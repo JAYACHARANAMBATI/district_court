@@ -55,9 +55,11 @@ def solve_and_load_case(cnr_number):
         # Setup browser
         options = Options()
         options.add_argument('--headless')
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-        driver.get("https://services.ecourts.gov.in/ecourtindia_v6/")
-
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--disable-gpu')
+        options.add_argument('--remote-debugging-port=9222')
+        driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
         try:
             # Enter CNR
             cnr_input = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.ID, "cino")))
