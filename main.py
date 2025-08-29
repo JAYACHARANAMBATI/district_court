@@ -28,7 +28,7 @@ from langchain.chains import RetrievalQA
 
 
 
-CHROME_DRIVER_PATH = r"C:\\Users\\91964\\OneDrive\\Desktop\\Ecourts\\chromedriver-win64\\chromedriver.exe"
+CHROME_DRIVER_PATH = os.environ.get("CHROMEDRIVER_PATH", "/usr/bin/chromium-driver")
 os.environ["GOOGLE_API_KEY"] = "AIzaSyC-hS6f2Tzqmew_PMJ9qIbUUcDK1xGjBtw"
 
 
